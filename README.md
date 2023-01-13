@@ -18,8 +18,7 @@ because substance that works for me doesn't mean it will works for you, and in t
 
 as a goal directed manner, and for ease of use, start with subtance you are already familer with and organize your self on them.
 
-[![everyone should have this life](https://user-images.githubusercontent.com/29840870/212426598-c305051f-2a07-48ee-8374-47e56c5067a8.mp4
-)
+https://user-images.githubusercontent.com/29840870/212426598-c305051f-2a07-48ee-8374-47e56c5067a8.mp4
 
 
 ## last commit
