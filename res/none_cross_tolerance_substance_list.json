@@ -1,0 +1,41 @@
+"NXT":
+{
+    "version": "v1.0.0.2023.1.4",
+
+
+    "content":
+    {
+
+        "subjective-effect": [
+            {"rank": 1, "substance": "Repamycin",       "highest clinical dose": "0.5mg",   "target":"mtor-",                             "evidence": "+1"},
+            {"rank": 2, "substance": "Venlafaxine",     "highest clinical dose": "",        "target":"SERT/NET-",                         "evidence": ""},
+            {"rank": 3, "substance": "Modafinil",       "highest clinical dose": "50mg",    "target":"DAT~",                              "evidence": ""},
+            {"rank": 4, "substance": "Tianpetine",      "highest clinical dose": "37.5mg",  "target":"mu~",                               "evidence": ""},
+            {"rank": 5, "substance": "Idra-21",         "highest clinical dose": "10mg",    "target":"AMPA+",                             "evidence": ""},
+            {"rank": 6, "substance": "Phenibut",        "highest clinical dose": "250mg",   "target":"cal-",                              "evidence": ""},
+            {"rank": 7, "substance": "Mag pid",         "highest clinical dose": "5g",      "target":"NMDA-",                             "evidence": ""},
+            {"rank": 8, "substance": "sam-e",           "highest clinical dose": "0.2g",    "target":"",                                  "evidence": ""},
+            {"rank": 9, "substance": "tenoten",         "highest clinical dose": "",        "target":"S-100B-",                           "evidence": ""},
+            {"rank": 10, "substance": "Selank",         "highest clinical dose": "250mcg",  "target":"dor+",                              "evidence": ""},
+            {"rank": 11, "substance": "Proglumide",     "highest clinical dose": "",        "target":"trigger-sensitizer",                "evidence": ""},
+            {"rank": 12, "substance": "Fasoracetam",    "highest clinical dose": "",        "target":"mGluRs+",                           "evidence": ""},
+            {"rank": 13, "substance": "Psilocybin",     "highest clinical dose": "",        "target":"HT2a+",                             "evidence": ""},
+            {"rank": 14, "substance": "PRE-084",        "highest clinical dose": "",        "target":"sigma+",                            "evidence": ""},
+            {"rank": 15, "substance": "prazepam",       "highest clinical dose": "",        "target":"GABA+",                             "evidence": ""},
+            {"rank": 16, "substance": "kava",           "highest clinical dose": "",        "target":"CB1+",                              "evidence": ""},
+            {"rank": 17, "substance": "Lamotrigin",     "highest clinical dose": "",        "target":"cal/sod/pot-",                      "evidence": ""},
+            {"rank": 18, "substance": "cabergoline",    "highest clinical dose": "125μg/w", "target":"D2+/D3+",                           "evidence": ""},
+            {"rank": 19, "substance": "HA-966",         "highest clinical dose": "",        "target":"NR1-",                              "evidence": ""},
+            {"rank": 20, "substance": "Epobis peptide", "highest clinical dose": "",        "target":"EpoR+",                             "evidence": ""},
+            {"rank": 21, "substance": "teprenone",      "highest clinical dose": "",        "target":"hsp70+ HSP105+",                    "evidence": ""},
+            {"rank": 22, "substance": "GHB",            "highest clinical dose": "",        "target":"GHB+GABA b+",                       "evidence": ""},
+            {"rank": 23, "substance": "Meldonium",      "highest clinical dose": "250mg",   "target":"GBB-",                              "evidence": ""},
+            {"rank": 24, "substance": "SkQ1",           "highest clinical dose": "I",       "target":"mitochondria-targeted antioxidant", "evidence": ""},
+            {"rank": 25, "substance": "BSO",            "highest clinical dose": "7.5ml",   "target":"immune activator/herxheimer",       "evidence": ""},
+            {"rank": 26, "substance": "dxm",            "highest clinical dose": "",        "target":"",                                  "evidence": ""},
+            {"rank": 27, "substance": "Memantine",      "highest clinical dose": "",        "target":"",                                  "evidence": ""}
+        ]
+
+
+    }
+}

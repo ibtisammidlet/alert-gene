@@ -1,0 +1,46 @@
+"alert~gene":
+{
+    "version": "v1.0.0.y.m.d",
+    "type": "snapshot",
+    "intent": "organization", //* can be expending
+    "name": "your name", //** Luca
+
+    "standards":
+    {
+        "philosophy": "rewarding stack",
+        "TaskMangament": "neuronal",
+        "fractional-dynamic": "dose" //* can be dose, price, LT
+    },   
+
+    "content":
+    {
+
+        "subjective-effect": [
+            "mania", 
+        ],
+
+        "RN":
+        {
+            "3emo-pcp": "", //* bipoler provider pcp
+            "Memantine": "",  //* seems none cross tolerance
+            "Lorazepam": "",  // make your comment luca
+            "Paroxetine": "",  //* make yours, my idea "long-term mild increase in serotonin transmission
+            "Piracetam": "",  //* clear thinking /learning
+            /* Forced by Chitoge */
+            "BSO": "", 
+            "Rosemary": "", 
+            //* See their discription in concept.xlx
+
+        },
+
+        "formilla":
+        {
+            "1.5:2:2:1.5:1:2:1:1@once/day.."
+        },
+
+        "disabled-function": [
+            "warrior-mode", //* the old warrior gene emulation bitch
+        ]
+
+    }
+}
