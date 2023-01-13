@@ -3,6 +3,8 @@
 we need to make online calculator for that someday
 
 # what is consepted.xlsx?
+![alt text](preview.PNG "consepted.xlsx preview")
+
 its a excle file we put data in it right now until we make a json/online visualiser and consept filter for it
 it made as completement for what [psychonautwiki](https://psychonautwiki.org/w/index.php?title=Subjective_effect_index&_=) started 
 
