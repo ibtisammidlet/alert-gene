@@ -29,7 +29,7 @@ but overall the final result was increased productivity
 rightnow trying to tune the stack more
 
 this the last snapshot (snapshot is something i take when i feel soo perfect)
->>snapshot link here
+>>https://github.com/ibtisammidlet/alert-gene/releases/download/v2.4.3.2023.1.4/v2.4.3.2023.1.4.json
 
 ## work/life balance:
 >> https://en.wikipedia.org/wiki/Workaholic
