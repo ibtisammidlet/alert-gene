@@ -1,7 +1,4 @@
 # alert-gene
-<<<<<<< Updated upstream
-this brench reached finicial buttleneck, extending..
-=======
 xxx
 
 # official site 
@@ -51,4 +48,3 @@ disabled function means characteristic in my personality i was have but lost
 
 to do:
 -need to make script that use HTTP request to vesualize latest versions of alertgene in alertgene.org from json file of this repo.
->>>>>>> Stashed changes
