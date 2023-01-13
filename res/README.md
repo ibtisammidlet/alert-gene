@@ -1,5 +1,6 @@
 # why i'm seeing "highest clinical dose" as json key where the dose mentioned was a microdose?
 >>https://www.biotune.org/2022/05/how-to-calculate-maximal-possible.html
+
 we need to make online calculator for that someday
 
 # what is consepted.xlsx?
