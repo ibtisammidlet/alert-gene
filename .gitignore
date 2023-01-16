@@ -103,5 +103,4 @@ dist
 # TernJS port file
 .tern-port
 private/
-*.xml
-frontend/v1.1.1.2023.1.14.xml
+frontend/*.xml
