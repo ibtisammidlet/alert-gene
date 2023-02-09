@@ -23,12 +23,14 @@
 
         "subjective-effect": [
             "awake™", //* due to D2++
+            "cuteness-overload", //** originally by anfranil, now hermone destreptor
             "devil counter-part", //* very old PTSD
             "strightfrowerdness", //* unk/co-omidred D3+ and byproduct of PTSD
             "disinhibited enargy", //* benzo
             "NMDA-tune", // manipulated learning ability
+            "novelity-seeking",
+            "uncare" //* aka anxiety-reaction inhibition by lamo //** also found to be baseline provided
             "zen-mode", //* contentment based behavior got from BSO
-            "awwerness", //* rational and physical awwerness by betahistine
             "boobs size adder/feminine walking pattrene enforcer", //* downregulated AR receptors triggered by CHOP protiene using rosemary oil Carnosic acid
             "full analgesia microdose" //* wide sideded bad emotion numbing ++v2.4.2
         ],
@@ -36,12 +38,13 @@
         "RN":
         {
             "anafranil": "75mg",
-            "bso": "2.5ml",
-            "rosemary-oil": "2.5ml",
+            "lavender": "4ml",
+            "bso": "4ml",
+            "rosemary-oil": "2ml",
             "prazepam": "10mg",
             "magnesium-pidolate": "0.42g IM",
             "pseudoephedrine-(RHUMAFED)": "50mg",
-            "betahistine": "24mg",
+        /*  "betahistine": "24mg", */
             "lidocaine": "37.5mg IM"
         },
 
@@ -51,9 +54,7 @@
         },
 
         "disabled-function": [
-            "novelity-seeking",
-            "cuteness-overload",
-            "uncare" //* aka anxiety-reaction inhibition by lamo
+        "awwerness", //* rational and physical awwerness by betahistine
         ]
 
     }
