@@ -37,20 +37,20 @@
 
         "RN":
         {
-            "anafranil": "75mg",
-            "lavender": "4ml",
-            "bso": "4ml",
-            "rosemary-oil": "2ml",
-            "prazepam": "10mg",
-            "magnesium-pidolate": "0.42g IM",
-            "pseudoephedrine-(RHUMAFED)": "50mg",
-        /*  "betahistine": "24mg", */
-            "lidocaine": "37.5mg IM"
+            "anafranil": "75mg", //* base
+            "lavender": "2ml",  //* did: the decrease in empathy was replenished by cuteness feminening, start of ^2 using
+            "bso": "2ml", //* future notice: because of money problems it should not go up
+            "rosemary-oil": "2ml", //* future notice: because empathy problems it should not go up, changes : decreased to half
+            "prazepam": "10mg", //* base
+            "magnesium-pidolate": "1ml IM", //* rounded easy way
+            "pseudoephedrine-(RHUMAFED)": "50mg", //* skepticalism about cycling or microdosig still in front of advancing more
+        /*  "betahistine": "24mg", future notice: because feeling worried blocked the legendary uncare linking cognitive function*/
+            "lidocaine": "1ml IM" //* the subtance of the month
         },
 
         "formilla":
         {
-            "1.5:2:2:1.5:1:2:1:1@once/day.."
+            "1.5:4:2:1:1.5:5:1:1:1@once/day.."
         },
 
         "disabled-function": [
