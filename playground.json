@@ -1,6 +1,6 @@
 "alert~gene":
 {
-    "version": "v2.4.3.2023.1.4",
+    "version": "v2.4.3.23219",
     "type": "snapshot",
     "intent": "organization", //* can be expending
 
@@ -43,14 +43,14 @@
             "rosemary-oil": "2ml", //* future notice: because empathy problems it should not go up, changes : decreased to half
             "prazepam": "10mg", //* base
             "magnesium-pidolate": "1ml IM", //* rounded easy way
-            "pseudoephedrine-(RHUMAFED)": "50mg", //* skepticalism about cycling or microdosig still in front of advancing more
+        /*  "pseudoephedrine-(RHUMAFED)": "50mg", //* skepticalism about cycling or microdosig still in front of advancing more
         /*  "betahistine": "24mg", future notice: because feeling worried blocked the legendary uncare linking cognitive function*/
             "lidocaine": "1ml IM" //* the subtance of the month
         },
 
-        "formilla":
+        "formula":
         {
-            "1.5:4:2:1:1.5:5:1:1:1@once/day.."
+            "1.5:4:2:1:1.5:5:1@once/day.."
         },
 
         "disabled-function": [
