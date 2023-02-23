@@ -1,0 +1,220 @@
+body {
+  display: inline-block;
+  min-width: 100%;
+  padding-bottom: 114px;
+  font-size: 16px;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+body,
+button,
+input,
+optgroup,
+select,
+textarea {
+  line-height: 1.4;
+}
+
+p {
+  margin: 0 0 22px;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: #808080;
+}
+
+textarea {
+  width: 100%;
+  margin-bottom: 5px;
+  padding: 1px;
+  border: 1px solid purple;
+}
+
+input[type="button"], input[type="submit"] {
+  font-size: large;
+}
+
+table {
+  border: 1px solid #333;
+  border-collapse: collapse;
+}
+
+table th, table td {
+  padding: 4px 6px;
+  border: 1px solid #333;
+  vertical-align: top;
+}
+
+table th {
+  font-weight: 500;
+}
+
+#header {
+  height: 107px;
+  padding-top: 17px;
+  background: url("../images/top1.png") repeat-x;
+  text-align: center;
+}
+
+form {
+  max-width: calc(100vw - 17px);
+  padding: 0 16px;
+}
+
+form p {
+  font-size: 18px;
+}
+
+#output {
+  padding: 16px;
+}
+
+#footer {
+  background-color: #ffffaa;
+  padding: 5px 16px;
+}
+
+h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+h3 code {
+  font-size: 16px;
+  font-weight: normal;
+}
+
+div.object, div.array {
+  display: inline-block;
+  padding: 16px;
+  min-width: 132px;
+}
+
+div.object {
+  background-color: #eeeeee;
+}
+
+div.object > table {
+  background-color: #ffffff;
+}
+
+div.array {
+  background-color: #eeeeff;
+}
+
+div.array > table {
+  background-color: #ffffee;
+}
+
+td.object, td.array {
+  padding: 8px;
+}
+
+.string {
+  color: #000000;
+  word-break: break-word;
+  white-space: pre-wrap;
+}
+
+.number {
+  color: #0000ff;
+}
+
+.boolean {
+  color: #ff8000;
+}
+
+.void {
+  color: #0000ff;
+}
+
+.widget {
+  float: right;
+  line-height: 25px;
+}
+
+.widget:before {
+  content: "▲";
+}
+
+div.minimised > .widget:before {
+  content: "▼";
+}
+
+div.minimised > table {
+  display: none;
+}
+
+.zoom {
+  float: right;
+  line-height: 25px;
+  margin-right: 5px;
+  font-size: 14px;
+}
+
+.zoom:before {
+  content: "🎯";
+}
+
+div.zoomed {
+  border: 2px solid #ff0000;
+}
+
+#focus {
+  display: flex;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 10px;
+  line-height: 1.6;
+  background-color: #ffffff;
+  border-top: 1px solid #ccc;
+  box-shadow: 0 -6px 10px rgb(0 0 0 / 18%);
+}
+
+#focus label {
+  font-weight: 500;
+}
+
+#focus-output {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+#focus-extended-type.present::before {
+  content: " (";
+}
+
+#focus-extended-type.present::after {
+  content: ")";
+}
+
+#stats table {
+  border: none;
+}
+
+#stats table tr {
+  border: none;
+}
+
+#stats table td {
+  border: none;
+}
+
+.ex {
+  vertical-align: middle;
+  margin-bottom: 1px;
+  margin-top: 1px;
+}
+
+#json-logo {
+  float: right;
+  margin-left: 16px;
+}

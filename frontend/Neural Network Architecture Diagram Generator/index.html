@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>NN architecture gen</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+    <div class="app-content">
+        <div id="settings">
+            <!--num input nodes-->
+            <div class="section">
+                <label for="numHiddenL">Number of inputs:
+                    <div id="numInput" class="fl_right">0</div>
+                </label>
+                <div class="section">
+                    <input type="range" min="0" max="20" value="0" oninput="slider_inputs(this.value);">
+                </div>
+            </div>
+
+            <!--num output nodes-->
+            <div class="section">
+                <label for="numHiddenL">Number of outputs:
+                    <div id="numOutput" class="fl_right">0</div>
+                </label>
+                <div class="section">
+                    <input type="range" min="0" max="20" value="0" oninput="slider_outputs(this.value);">
+                </div>
+            </div>
+
+            <!--num hidden layers-->
+            <div class="section">
+                <label for="numHiddenL">Number of hidden Layers:
+                    <div id="numHidden" class="fl_right">0</div>
+                </label>
+                <div class="section">
+                    <input type="range" min="0" max="20" value="0" oninput="slider_hidden(this.value);">
+                </div>
+            </div>
+
+            <div class="section" id="hidden_layers"></div>
+
+            <hr>
+
+            <div class="section">
+                <button class="button_nn fl_right" onclick="render_Graph();">Graph</button>
+                <button class="button_nn fl_right" onclick="clear_Graph();">Clear</button>
+            </div>
+        </div>
+
+
+        <!--svg image to canvas-->
+        <div id="content">
+            <canvas id="canvas"></canvas>
+        </div>
+    </div>
+</body>
+<script src="js/svgnn.js"></script>
+
+</html>

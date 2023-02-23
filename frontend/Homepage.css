@@ -1,0 +1,13 @@
+      <!--the above has inactivated from global css     -->
+a,abbr,acronym,address,applet,b,big,blockquote,body,caption,center,cite,code,dd,del,dfn,div,dl,dt,em,fieldset,font,form,h1,h2,h3,h4,h5,h6,html,i,iframe,img,ins,kbd,label,legend,li,object,p,pre,q,s,samp,small,span,strike,strong,sub,sup,table,tbody,td,tfoot,th,thead,tr,tt,u,ul,var{
+background:0 0; 
+      }
+      
+.item #main-wrapper{
+width: 66.66666667%;
+}
+ .post-body table td,.post-body table th{
+    padding:7px 15px;
+    border:1px solid #161619
+}
+
