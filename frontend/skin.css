@@ -137,7 +137,7 @@ color:red;
     padding:0
 }
 a{
-    color:var(--maincolor);
+    color:var(--main-color);
 }
 a:visited {
 color:red;
@@ -307,7 +307,7 @@ margin:0
     transition:color .17s
 }
  .list-label li a:hover{
-    color:var(--maincolor);
+    color:var(--main-color);
 }
  .list-label .label-count{
     position:relative;
@@ -333,7 +333,7 @@ margin:0
     transition:all .17s ease
 }
  .cloud-label li a:hover{
-    color:var(--maincolor);
+    color:var(--main-color);
 }
  .cloud-label .label-count{
     display:none
@@ -344,7 +344,7 @@ margin:0
  .FollowByEmail .widget-content{
     position:relative;
     overflow:hidden;
-    background-color:var(--maincolor);
+    background-color:var(--main-color);
     font-weight:400;
     text-align:center;
     box-sizing:border-box;
@@ -422,7 +422,7 @@ margin:0
     transition:color .17s
 }
  #ArchiveList .flat li > a:hover{
-    color:var(--maincolor);
+    color:var(--main-color);
 }
  #ArchiveList .flat li > a:before{
     content:"\f105";
@@ -472,7 +472,7 @@ margin:0
     transition:color .17s
 }
  .PopularPosts .post-title a:hover{
-    color:var(--maincolor);
+    color:var(--main-color);
 }
  .PopularPosts .post-meta{
     font-size:11px
@@ -501,7 +501,7 @@ margin:0
     transition:color .17s ease
 }
  .FeaturedPost .post-title a:hover{
-    color:var(--maincolor);
+    color:var(--main-color);
 }
  .Text{
     font-size:13px
@@ -547,7 +547,7 @@ margin:0
     float:left;
     width:100%;
     height:30px;
-    background-color:var(--maincolor);
+    background-color:var(--main-color);
     font-size:13px;
     color:#fff;
     line-height:30px;
@@ -613,7 +613,7 @@ margin:0
     line-height:30px;
     cursor:pointer;
     box-sizing:border-box;
-    background-color:var(--maincolor);
+    background-color:var(--main-color);
     color:#fff;
     padding:0 5px;
     border:0;
@@ -640,7 +640,7 @@ margin:0
     transition:color .17s ease
 }
  .Profile .profile-data .g-profile:hover{
-    color:var(--maincolor);
+    color:var(--main-color);
 }
  .Profile .profile-info > .profile-link{
     color:$(title.color);
@@ -649,7 +649,7 @@ margin:0
     transition:color .17s ease
 }
  .Profile .profile-info > .profile-link:hover{
-    color:var(--maincolor);
+    color:var(--main-color);
 }
  .Profile .profile-datablock .profile-textblock{
     display:none
@@ -672,7 +672,7 @@ margin:0
     transition:color .17s ease
 }
  .common-widget .LinkList ul li a:hover,.common-widget .PageList ul li a:hover{
-    color:var(--maincolor);
+    color:var(--main-color);
 }
  .common-widget .LinkList ul li:first-child,.common-widget .LinkList ul li:nth-child(2),.common-widget .PageList ul li:first-child,.common-widget .PageList ul li:nth-child(2){
     padding:0
@@ -748,7 +748,7 @@ display: block;
     transition:color .17s
 }
  .custom-widget li:hover .post-title a{
-    color:var(--maincolor);
+    color:var(--main-color);
 }
  .custom-widget .post-meta{
     font-size:12px
@@ -870,7 +870,7 @@ display: block;
     padding:0 5px 0 0
 }
  .top-bar-nav ul > li:hover > a{
-    color:var(--maincolor);
+    color:var(--main-color);
 }
  .top-bar-social{
     float:left;
@@ -930,7 +930,7 @@ display: inline-block;
     padding: 0 15px;
     box-sizing: border-box;
     border-radius: 30px;
-background:var(--maincolor);
+background:var(--main-color);
     height: 45px;
     font-size: 14px;
     letter-spacing: 1px;
@@ -969,7 +969,7 @@ border-radius:50%;
 }
  
  .top-bar-social ul > li:hover > a{
-    color:var(--maincolor);
+    color:var(--main-color);
 }
  .social a:before{
     display:inline-block;
@@ -1251,7 +1251,7 @@ display:none;
     padding:0 0 0 10px
 }
  #main-menu ul > li > a:hover{
-    color:var(--maincolor);
+    color:var(--main-color);
 }
  #main-menu ul > li > ul{
     position:absolute;
@@ -1291,7 +1291,7 @@ display:none;
 }
 
  #main-menu ul > li > ul > li:hover{
-    background-color:var(--maincolor);
+    background-color:var(--main-color);
 }
  #main-menu ul > li > ul > li:hover > a{
     color:#fff
@@ -1344,7 +1344,7 @@ display:none;
     font-family:FontAwesome
 }
  .mobile-menu-toggle:hover, .scrolling-mobile-menu-toggle:hover{
-    color:var(--maincolor);
+    color:var(--main-color);
 }
  .overlay{
     display:none;
@@ -1408,7 +1408,7 @@ display:none;
     transition:all .17s ease
 }
  .mobile-menu ul li a:hover, .scrolling-mobile-menu ul li a:hover{
-    color:var(--maincolor);
+    color:var(--main-color);
 }
  .mobile-menu ul li.has-sub .submenu-toggle{
     position:absolute;
@@ -1430,7 +1430,7 @@ display:none;
     transition:all .17s ease
 }
  .mobile-menu ul li.has-sub .submenu-toggle:hover{
-    color:var(--maincolor);
+    color:var(--main-color);
 }
  .mobile-menu ul li.has-sub.show > .submenu-toggle:after{
     transform:rotate(90deg)
@@ -1468,7 +1468,7 @@ display:none;
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    border: 2px solid var(--maincolor);
+    border: 2px solid var(--main-color);
     border-radius: 26px;
     -webkit-backface-visibility: hidden
 }
@@ -1486,7 +1486,7 @@ display:none;
     animation: scroll 1.5s -1s cubic-bezier(.68, -.55, .265, 1.55) infinite;
     opacity: 1;
     border-radius: 100%;
-    background-color: var(--maincolor);
+    background-color: var(--main-color);
 }
 @-webkit-keyframes scroll {
     0%, 20% {
@@ -1718,7 +1718,7 @@ color: $(dark.color);
     font-weight: 400;
     font-style: normal;
     margin: 0;
-    color: var(--maincolor);
+    color: var(--main-color);
 }
 .counter-info {
     overflow: hidden;
@@ -1804,7 +1804,7 @@ display: inline-block;
     float: none;
 }
 #intro-author-heading .button:hover {
-   background: var(--maincolor);
+   background: var(--main-color);
 }
 .author-intro-widgets {
 }
@@ -1912,7 +1912,7 @@ position:relative;
     display:block;
     background-color:#f2f2f2;
     font-size:30px;
-    color:var(--maincolor);
+    color:var(--main-color);
     line-height:70px;
     font-weight:400;
     font-style:normal;
@@ -2119,9 +2119,9 @@ overflow:hidden;
     content:"\f054"
 }
  .owl-prev:hover,.owl-next:hover{
-    background-color:var(--maincolor);
+    background-color:var(--main-color);
     color:#fff;
-    border-color:var(--maincolor);
+    border-color:var(--main-color);
 }
  @keyframes fadeInLeft {
      from{
@@ -2182,7 +2182,7 @@ overflow:hidden;
     width:28px;
     height:28px;
     margin:-16px 0 0 -16px;
-    border:2px solid var(--maincolor);
+    border:2px solid var(--main-color);
     border-right-color:rgba(155,155,155,0.2);
     border-radius:100%;
     animation:spinner 1.1s infinite linear;
@@ -2328,7 +2328,7 @@ text-align:center;
     margin-bottom:15px;
 }
  .main-slider .post-info .post-tag:hover{
-  color:var(--maincolor);
+  color:var(--main-color);
 }
 .main-slider .post-meta {
     color: #aaaaaa;
@@ -2431,7 +2431,7 @@ background:#ffffff;
     -ms-border-radius: 63% 37% 30% 70%/50% 45% 55% 50%;
     -o-border-radius:63% 37% 30% 70%/50% 45% 55% 50%;
     border-radius: 63% 37% 30% 70%/50% 45% 55% 50%;
-    background-color: var(--maincolor);
+    background-color: var(--main-color);
     -webkit-box-shadow: 0 10px 30px 0 rgb(44 130 237 / 40%);
     -khtml-box-shadow:0 10px 30px 0 rgb(44 130 237 / 40%);
     -moz-box-shadow:0 10px 30px 0 rgb(44 130 237 / 40%);
@@ -2607,7 +2607,7 @@ transition:height 500ms ease-in-out
     width: 12px;
 }
 .owl-carousel .owl-controls .owl-dot.active span {
-background:none repeat scroll 0 0 var(--maincolor);
+background:none repeat scroll 0 0 var(--main-color);
 }
 .owl-prev,.owl-next{
 position:relative;
@@ -2636,9 +2636,9 @@ content:"\f053"
 content:"\f054"
 }
 .owl-prev:hover,.owl-next:hover{
-background-color:var(--maincolor);
+background-color:var(--main-color);
 color:#fff;
-border-color:var(--maincolor);
+border-color:var(--main-color);
 }
 @keyframes fadeInLeft {
      from{
@@ -2761,7 +2761,7 @@ border-radius:50%;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     margin-right: 10px;
-    color:var(--maincolor);
+    color:var(--main-color);
 } 
 .testi-snippet:after {
     content: '\f10e';
@@ -2773,7 +2773,7 @@ border-radius:50%;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     margin-left: 10px;
-   color:var(--maincolor);
+   color:var(--main-color);
 }
 #testimonial .widget:nth-child(2) .testi-snippet, #testimonial .widget:nth-child(4) .testi-snippet {
     background-color: #e22310;
@@ -2808,7 +2808,7 @@ border-radius:50%;
  .queryMessage a.show-more{
 float: right;
     display:inline-block;
-    color:var(--maincolor);
+    color:var(--main-color);
     text-decoration:underline;
     margin:0 0 0 10px
 }
@@ -3004,7 +3004,7 @@ color: #5a5a5a;
     transition:all .17s ease
 }
  .post-labels a:hover{
-    background-color:var(--maincolor);
+    background-color:var(--main-color);
     color:#fff
 }
  .post-share{
@@ -3046,7 +3046,7 @@ color: #5a5a5a;
     font-size:14px
 }
  .share-links li a:hover{
-    background-color:var(--maincolor);
+    background-color:var(--main-color);
     color:#fff
 }
 #related-wrap{
@@ -3060,7 +3060,7 @@ color: #5a5a5a;
     float: left;
     width: 100%;
     height: 28px;
-    background-color: var(--maincolor);
+    background-color: var(--main-color);
     display: block;
     margin: 0 0 20px;
 }
@@ -3120,7 +3120,7 @@ color: #5a5a5a;
     transition:color .17s
 }
  .related-posts .related-item:hover .post-title a{
-    color:var(--maincolor);
+    color:var(--main-color);
 }
  .related-posts .post-meta{
     font-size:12px
@@ -3146,7 +3146,7 @@ color: #5a5a5a;
     transition:all .17s ease
 }
  .post-nav .nav-link:hover{
-    background-color:var(--maincolor);
+    background-color:var(--main-color);
     color:#fff
 }
  .post-nav span.nav-link:hover{
@@ -3186,7 +3186,7 @@ color: #5a5a5a;
  .blog-pager a{
     display:inline-block;
     height:32px;
-    background-color:var(--maincolor);
+    background-color:var(--main-color);
     color:#fff;
     font-size:14px;
     font-weight:400;
@@ -3309,7 +3309,7 @@ color: #5a5a5a;
     transition:color .17s ease
 }
  .comments .comment-header .user a:hover{
-    color:var(--maincolor);
+    color:var(--main-color);
 }
  .comments .comment-header .icon.user{
     display:none
@@ -3317,7 +3317,7 @@ color: #5a5a5a;
  .comments .comment-header .icon.blog-author{
     display:inline-block;
     font-size:12px;
-    color:var(--maincolor);
+    color:var(--main-color);
     font-weight:400;
     vertical-align:top;
     margin:0 0 0 5px
@@ -3348,7 +3348,7 @@ color: #5a5a5a;
     transition:color .17s ease
 }
  .comments .comment-actions a:hover{
-    color:var(--maincolor);
+    color:var(--main-color);
     text-decoration:underline
 }
  .loadmore.loaded a{
@@ -3407,7 +3407,7 @@ color: #5a5a5a;
     font-style:italic;
     padding:10px 15px;
     margin:0;
-    border-left:3px solid var(--maincolor);
+    border-left:3px solid var(--main-color);
 }
  blockquote:before,blockquote:after{
     display:inline-block;
@@ -3490,7 +3490,7 @@ color: #5a5a5a;
     float:left;
     width:100%;
     height:34px;
-    background-color:var(--maincolor);
+    background-color:var(--main-color);
     font-family:inherit;
     font-size:12px;
     color:#fff;
@@ -3598,7 +3598,7 @@ height: 378px;
     padding-right:0
 }
  .social-footer ul li a:hover{
-    color:var(--maincolor);
+    color:var(--main-color);
 }
  #footer-copyright .copyright-area{
 float:left;
@@ -3606,7 +3606,7 @@ float:left;
     line-height:30px;
 }
  #footer-copyright .copyright-area a{
-    color:var(--maincolor);
+    color:var(--main-color);
 }
  #footer-copyright .copyright-area a:hover{
     text-decoration:underline
@@ -3623,7 +3623,7 @@ float:left;
     position:fixed;
     bottom:25px;
     right:25px;
-    background-color:var(--maincolor);
+    background-color:var(--main-color);
     cursor:pointer;
     overflow:hidden;
     font-size:19px;
@@ -3664,7 +3664,7 @@ float:left;
 }
  .errorWrap a{
     display:block;
-    color:var(--maincolor);
+    color:var(--main-color);
     padding:10px 0 0
 }
  .errorWrap a i{
