@@ -9,7 +9,8 @@
     {
         "philosophy": "rewarding stack",
         "TaskMangament": "neuronal",
-        "fractional-dynamic": "dose" //* can be dose, price, LT
+        "fractional-dynamic": "dose", //* can be dose, price, LT, package (the easiest)
+        "values-represention": "geometric-progression"
     },   
 
     "content":
