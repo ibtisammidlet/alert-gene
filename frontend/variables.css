@@ -1,0 +1,38 @@
+/*
+<!-- Variable definitions -->
+<Variable name="keycolor" description="Main Color" type="color" hideEditor="true" default="$(main.color)" value="#003ee6"/>
+<Variable name="followByEmail" description="Follow By Email Text" type="string" hideEditor="true" default="Get all latest content delivered straight to your inbox." value="Get all latest content delivered straight to your inbox."/>
+
+<Group description="Theme Colors" selector="body">
+  <Variable name="main.color" description="Theme Color" type="color" default="#003ee6" value="#003ee6"/>
+  <Variable name="dark.color" description="Dark Color" type="color" default="#232323" value="#232323"/>
+   <Variable name="dark.color.two" description="Second Dark Color" type="color" default="#121158" value="#121158"/>
+  <Variable name="main.menu.color" description="Main Menu Color" type="color" default="#333333" value="#333333"/>
+  <Variable name="body.text.color" description="Text Color" type="color" default="#888888"  value="#888888"/>
+   <Variable name="body.text.two" description="Second Text Color" type="color" default="#515184"  value="#515184"/>
+  <Variable name="title.color" description="Title Color" type="color" default="#222222" value="#222222"/>
+</Group>
+
+<Group description="Intro Section" selector="#main-intro">
+  <Variable name="intro.title" description="Intro Title Color" type="color" default="#232323" value="#232323"/>
+  <Variable name="intro.text" description="Intro Text Color" type="color" default="#666666" value="#666666"/>
+</Group>
+
+<!-- Extra Variables -->
+<Variable name="body.background.color" description="Body background color" hideEditor="true" type="color" default="#f8f8f8"  value="#f8f8f8"/>
+<Variable name="head.color" description="Header background color" hideEditor="true" type="color" default="#ffffff"  value="#ffffff"/>
+<Variable name="body.background" description="Background" hideEditor="true" type="background" color="#f8f8f8" default="$(color) url() repeat scroll top left" value="$(color) url() repeat scroll top left"/>
+<Variable name="body.link.color" description="Body Link Color" hideEditor="true" type="color" default="$(main.color)"  value="#003ee6"/>
+<Variable name="body.text.font" description="Font" hideEditor="true" type="font" default="14px Poppins, sans-serif"  value="14px Poppins, sans-serif"/>
+<Variable name="posts.background.color" description="Post background color" hideEditor="true" type="color" default="#f8f8f8"  value="#f8f8f8"/>
+<Variable name="tabs.font" description="Font 2" hideEditor="true" type="font" default="14px Poppins, sans-serif"  value="14px Poppins, sans-serif"/>
+<Variable name="posts.title.color" description="Post title color" hideEditor="true" type="color" default="#111111"  value="#111111"/>
+<Variable name="posts.text.color" description="Post text color" hideEditor="true" type="color" default="#5E5E5E"  value="#5E5E5E"/>
+<Variable name="posts.icons.color" description="Post icons color" hideEditor="true" type="color" default="$(main.color)"  value="#003ee6"/>
+<Variable name="labels.background.color" description="Label background color" hideEditor="true" type="color" default="$(main.color)"  value="#003ee6"/>
+<Variable name="footer.dark.color" description="Footer background color" hideEditor="true" type="color" default="#001d4c"  value="#018dca"/>
+*/
+
+:root {
+  --main.color: #003ee6;
+}
