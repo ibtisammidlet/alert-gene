@@ -8,44 +8,6 @@ Author:      Sora Templates
 Author Url:  https://www.soratemplates.com/
 ----------------------------------------------- */
 
-/*
-<!-- Variable definitions -->
-<Variable name="keycolor" description="Main Color" type="color" hideEditor="true" default="$(main.color)" value="#003ee6"/>
-<Variable name="followByEmail" description="Follow By Email Text" type="string" hideEditor="true" default="Get all latest content delivered straight to your inbox." value="Get all latest content delivered straight to your inbox."/>
-
-<Group description="Theme Colors" selector="body">
-  <Variable name="main.color" description="Theme Color" type="color" default="#003ee6" value="#003ee6"/>
-  <Variable name="dark.color" description="Dark Color" type="color" default="#232323" value="#232323"/>
-   <Variable name="dark.color.two" description="Second Dark Color" type="color" default="#121158" value="#121158"/>
-  <Variable name="main.menu.color" description="Main Menu Color" type="color" default="#333333" value="#333333"/>
-  <Variable name="body.text.color" description="Text Color" type="color" default="#888888"  value="#888888"/>
-   <Variable name="body.text.two" description="Second Text Color" type="color" default="#515184"  value="#515184"/>
-  <Variable name="title.color" description="Title Color" type="color" default="#222222" value="#222222"/>
-</Group>
-
-<Group description="Intro Section" selector="#main-intro">
-  <Variable name="intro.title" description="Intro Title Color" type="color" default="#232323" value="#232323"/>
-  <Variable name="intro.text" description="Intro Text Color" type="color" default="#666666" value="#666666"/>
-</Group>
-
-<!-- Extra Variables -->
-<Variable name="body.background.color" description="Body background color" hideEditor="true" type="color" default="#f8f8f8"  value="#f8f8f8"/>
-<Variable name="head.color" description="Header background color" hideEditor="true" type="color" default="#ffffff"  value="#ffffff"/>
-<Variable name="body.background" description="Background" hideEditor="true" type="background" color="#f8f8f8" default="$(color) url() repeat scroll top left" value="$(color) url() repeat scroll top left"/>
-<Variable name="body.link.color" description="Body Link Color" hideEditor="true" type="color" default="$(main.color)"  value="#003ee6"/>
-<Variable name="body.text.font" description="Font" hideEditor="true" type="font" default="14px Poppins, sans-serif"  value="14px Poppins, sans-serif"/>
-<Variable name="posts.background.color" description="Post background color" hideEditor="true" type="color" default="#f8f8f8"  value="#f8f8f8"/>
-<Variable name="tabs.font" description="Font 2" hideEditor="true" type="font" default="14px Poppins, sans-serif"  value="14px Poppins, sans-serif"/>
-<Variable name="posts.title.color" description="Post title color" hideEditor="true" type="color" default="#111111"  value="#111111"/>
-<Variable name="posts.text.color" description="Post text color" hideEditor="true" type="color" default="#5E5E5E"  value="#5E5E5E"/>
-<Variable name="posts.icons.color" description="Post icons color" hideEditor="true" type="color" default="$(main.color)"  value="#003ee6"/>
-<Variable name="labels.background.color" description="Label background color" hideEditor="true" type="color" default="$(main.color)"  value="#003ee6"/>
-<Variable name="footer.dark.color" description="Footer background color" hideEditor="true" type="color" default="#001d4c"  value="#018dca"/>
-*/
-
-:root {
-  --main-color: #003ee6;
-}
 
 /*-- Reset CSS --*/
  /* PRELOADER */
@@ -181,7 +143,7 @@ a:visited {
 color:red;
 }
 a:hover{
-    color:$(title.color)
+    color:var(--title-color);
 }
 a img{
     border:0
@@ -216,7 +178,7 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Nunito', sans-serif;font-weight:700;}
     font-family:'Poppins',sans-serif;
     font-size:14px;
     font-weight:400;
-    color:$(body.text.color);
+    color:var(--body-text-color);
     word-wrap:break-word;
     margin:0;
     padding:0
@@ -328,7 +290,7 @@ margin:0
 }
  .list-label li a{
     display:block;
-    color:$(title.color);
+    color:var(--title-color);
     font-size:13px;
     font-weight:400;
     text-transform:capitalize;
@@ -337,7 +299,7 @@ margin:0
  .list-label li a:before{
     content:"\f105";
     float:left;
-    color:$(title.color);
+    color:var(--title-color);
     font-size:12px;
     font-weight:400;
     font-family:FontAwesome;
@@ -361,7 +323,7 @@ margin:0
     display:block;
     height:26px;
     background-color:#fff;
-    color:$(title.color);
+    color:var(--title-color);
     font-size:12px;
     line-height:26px;
     font-weight:400;
@@ -428,7 +390,7 @@ margin:0
     font-family:inherit;
     font-size:11px;
     color:#fff;
-    background-color:$(dark.color);
+    background-color:var(--dark-color);
     text-transform:uppercase;
     text-align:center;
     font-weight:700;
@@ -441,7 +403,7 @@ margin:0
     opacity:.8
 }
  #ArchiveList ul.flat li{
-    color:$(title.color);
+    color:var(--title-color);
     font-size:13px;
     font-weight:400;
     padding:8px 0;
@@ -456,7 +418,7 @@ margin:0
 }
  #ArchiveList .flat li > a{
     display:block;
-    color:$(title.color);
+    color:var(--title-color);
     transition:color .17s
 }
  #ArchiveList .flat li > a:hover{
@@ -465,7 +427,7 @@ margin:0
  #ArchiveList .flat li > a:before{
     content:"\f105";
     float:left;
-    color:$(title.color);
+    color:var(--title-color);
     font-size:12px;
     font-weight:400;
     font-family:FontAwesome;
@@ -506,7 +468,7 @@ margin:0
 }
  .PopularPosts .post-title a{
     display:block;
-    color:$(title.color);
+    color:var(--title-color);
     transition:color .17s
 }
  .PopularPosts .post-title a:hover{
@@ -534,7 +496,7 @@ margin:0
     margin:0 0 10px
 }
  .FeaturedPost .post-title a{
-    color:$(title.color);
+    color:var(--title-color);
     display:block;
     transition:color .17s ease
 }
@@ -597,7 +559,7 @@ margin:0
     transition:background .17s ease
 }
  .contact-form-button-submit:hover{
-    background-color:$(dark.color)
+    background-color:var(--dark-color);
 }
  .contact-form-error-message-with-border{
     float:left;
@@ -658,7 +620,7 @@ margin:0
     transition:background .17s ease
 }
  .BlogSearch .search-action:hover{
-    background-color:$(dark.color)
+    background-color:var(--dark-color);
 }
  .Profile .profile-img{
     float:left;
@@ -673,7 +635,7 @@ margin:0
  .Profile .profile-data .g-profile{
     display:block;
     font-size:14px;
-    color:$(title.color);
+    color:var(--title-color);
     margin:0 0 5px;
     transition:color .17s ease
 }
@@ -681,7 +643,7 @@ margin:0
     color:var(--main-color);
 }
  .Profile .profile-info > .profile-link{
-    color:$(title.color);
+    color:var(--title-color);
     font-size:11px;
     margin:5px 0 0;
     transition:color .17s ease
@@ -704,7 +666,7 @@ margin:0
 }
  .common-widget .LinkList ul li a,.common-widget .PageList ul li a{
     display:block;
-    color:$(title.color);
+    color:var(--title-color);
     font-size:13px;
     font-weight:400;
     transition:color .17s ease
@@ -748,7 +710,7 @@ display:none;
 #brand-services-wrap .widget-title > h3 {
 display: block;
     font-size: 42px;
-    color: $(dark.color);
+    color: var(--dark-color);
     font-weight: 700;
 }
 .custom-widget li{
@@ -782,7 +744,7 @@ display: block;
 }
  .custom-widget .post-title a{
     display:block;
-    color:$(dark.color);
+    color:var(--dark-color);
     transition:color .17s
 }
  .custom-widget li:hover .post-title a{
@@ -1175,7 +1137,7 @@ border-radius:50%;
     background-color:#888
 }
  .social-color .external-link a{
-    background-color:$(dark.color)
+    background-color:var(--dark-color);
 }
 .home #header-wrap {
 position:fixed;
@@ -1210,7 +1172,7 @@ position:fixed;
     vertical-align:middle
 }
  .header-logo h1{
-    color:$(main.menu.color);
+    color:var(--main-menu-color);
     font-size:20px;
     line-height:38px;
     margin:0
@@ -1237,7 +1199,7 @@ position:fixed;
 }
 .scrolling-menu ul > li > a {
     position: relative;
-    color: $(main.menu.color);
+    color: var(--main-menu-color);
     font-size: 12px;
     font-weight: 600;
     text-transform: uppercase;
@@ -1274,7 +1236,7 @@ display:none;
 }
  #main-menu ul > li > a{
     position:relative;
-    color:$(main.menu.color);
+    color:var(--main-menu-color);
     font-size:12px;
     font-weight:600;
     text-transform:uppercase;
@@ -1297,7 +1259,7 @@ display:none;
     left:0;
     top:68px;
     width:180px;
-    background-color:$(dark.color);
+    background-color:var(--dark-color);
     z-index:99999;
     margin-top:0;
     padding:0;
@@ -1362,7 +1324,7 @@ display:none;
     height:68px;
     line-height:68px;
     z-index:20;
-    color:$(main.menu.color);
+    color:var(--main-menu-color);
     font-size:21px;
     font-weight:400;
     text-align:left;
@@ -1402,7 +1364,7 @@ display:none;
     top:68px;
     left:0;
     width:100%;
-    background-color:$(dark.color);
+    background-color:var(--dark-color);
     box-sizing:border-box;
     visibility:hidden;
     z-index:1000;
@@ -1615,14 +1577,14 @@ background-blend-mode: overlay, screen, overlay, overlay, normal;
 }
  .intro-title{
     font-size:42px;
-    color:$(intro.title);
+    color:var(--intro-title);
     font-weight:900;
     margin:0 0 10px
 }
  .intro-snippet{
     font-size:18px;
     line-height:34px;
-    color:$(intro.text);
+    color:var(--intro-text);
     margin:0
 }
  .intro-action a, .service-action a{
@@ -1654,7 +1616,7 @@ background-blend-mode: overlay, screen, overlay, overlay, normal;
     box-shadow: 0 0 10px rgb(255 136 0 / 50%), inset 0 0 1px 1px #4154f1;
 }
  .intro-action a:hover{
-    background-color:$(dark.color)
+    background-color:var(--dark-color);
 }
 .intro-image {
     display: flex;
@@ -1671,7 +1633,7 @@ background-blend-mode: overlay, screen, overlay, overlay, normal;
     display:none;
     float:left;
     width:100%;
-   background:$(footer.dark.color);
+   background:var(--footer-dark-color);
     padding:30px 0;
 	margin-top: -1px;
 }
@@ -1732,7 +1694,7 @@ display: grid;
     width: 100%;
     padding:10px 0;
     box-sizing: border-box;
-color: $(dark.color);
+color: var(--dark-color);
     position: relative;
 }
 .counter-avatar {
@@ -1836,7 +1798,7 @@ color: $(dark.color);
 #intro-author-heading .button {
     margin: 10px 0 0;
     padding: 8px 20px;
-    background: $(dark.color);
+    background: var(--dark-color);
     color:#fff;
 display: inline-block;
     float: none;
@@ -1968,7 +1930,7 @@ position:relative;
     box-shadow: 0 5px 30px 0 rgb(214 215 216 / 57%);
 }
 .author-intro-widgets .author-list .service-content-details .service-snippet {
-    color: $(body.text.color);
+    color: var(--body-text-color);
     font-size: 13px;
 line-height: 22px;
 }
@@ -2001,7 +1963,7 @@ text-align:right;
 }
  .service-title{
     font-size:14px;
-    color:$(dark.color);
+    color:var(--dark-color);
     font-weight:700;
     text-transform:capitalize;
     margin:25px 0 15px
@@ -2143,7 +2105,7 @@ overflow:hidden;
     font-size:11px;
     line-height:30px;
     font-weight:900;
-    color:$(dark.color);
+    color:var(--dark-color);
     text-align:center;
     cursor:pointer;
     border:1px solid rgba(0,0,0,0.08);
@@ -2340,14 +2302,14 @@ margin:30px 0 0;
     margin:0 0 5px
 }
  .main-slider .post-title a{
-    color:$(title.color);
+    color:var(--title-color);
     display:block
 }
  .main-slider .post-title a:hover{
     text-decoration:underline
 }
 .main-slider .post-snippet {
-    color:$(posts.text.color);
+    color:var(--posts-text-color);
 } 
  .show-slider .no-posts{
     position:absolute;
@@ -2377,7 +2339,7 @@ text-align:center;
 }
 .main-slider .post-date {
     font-size: 11px;
-    color: $(dark.color);
+    color: var(--dark-color);
     margin: 0;
 display: inline-block;
 float:none;
@@ -2419,7 +2381,7 @@ float:none;
  .head-text .widget-title > h3{
     display:block;
     font-size:27px;
-    color:$(title.color);
+    color:var(--title-color);
     font-weight:700;
     margin:0 0 20px
 }
@@ -2511,14 +2473,14 @@ margin-top: 25px;
 }
  .serv-tile-box-title{
     font-size: 24px;
-    color:$(dark.color.two);
+    color:var(--dark-color-two);
     font-weight:700;
     margin:0 0 7px
 }
  .serv-tile-box-meta{
     font-size:16px;
 line-height: 1.75;
-    color:$(body.text.two)
+    color:var(--body-text-two);
 }
 .owl-carousel{
 display:none;
@@ -2824,7 +2786,7 @@ border-radius:50%;
 }
  .queryMessage{
     overflow:hidden;
-    color:$(title.color);
+    color:var(--title-color);
     font-size:13px;
     font-weight:400;
    padding: 10px;
@@ -2925,13 +2887,13 @@ float: left;
 }
  .index-post .post-info > h2{
     font-size:24px;
-    color:$(title.color);
+    color:var(--title-color);
     font-weight:600;
     line-height:1.5em;
     margin:0 0 10px
 }
  .index-post .post-info > h2 a{
-color:$(title.color);
+color:var(--title-color);
 }
  .post-meta{
     color:#989898;
@@ -2988,7 +2950,7 @@ color: #5a5a5a;
 }
  .item-post h1.post-title{
     font-size:27px;
-    color:$(title.color);
+    color:var(--title-color);
     line-height:1.5em;
     font-weight:700;
     position:relative;
@@ -3154,7 +3116,7 @@ color: #5a5a5a;
     margin:7px 0 5px
 }
  .related-posts .post-title a{
-    color:$(dark.color);
+    color:var(--dark-color);
     transition:color .17s
 }
  .related-posts .related-item:hover .post-title a{
@@ -3236,7 +3198,7 @@ color: #5a5a5a;
     transition:all .17s ease
 }
  .blog-pager a:hover{
-    background-color:$(dark.color)
+    background-color:var(--dark-color);
 }
  .blog-post-comments{
     display:none;
@@ -3336,14 +3298,14 @@ color: #5a5a5a;
 }
  .comments .comment-header .user{
     font-size:14px;
-    color:$(title.color);
+    color:var(--title-color);
     display:inline-block;
     font-style:normal;
     font-weight:700;
     margin:0
 }
  .comments .comment-header .user a{
-    color:$(title.color);
+    color:var(--title-color);
     transition:color .17s ease
 }
  .comments .comment-header .user a:hover{
@@ -3415,13 +3377,13 @@ color: #5a5a5a;
     padding:10px 0 5px
 }
  .comment-form > p > a{
-    color:$(title.color)
+    color:var(--title-color);
 }
  .comment-form > p > a:hover{
     text-decoration:underline
 }
  .post-body h1,.post-body h2,.post-body h3,.post-body h4,.post-body h5,.post-body h6{
-    color:$(title.color);
+    color:var(--title-color);
     font-weight:700;
     margin:0 0 15px
 }
@@ -3581,13 +3543,13 @@ height: 378px;
  #footer-wrapper{
     position:relative;
     overflow:hidden;
-    background:$(footer.dark.color);
+    background:var(--footer-dark-color);
     background-size: cover;
     background-position: top;
     margin:0
 }
 .deva-svg-shape {
-    background: $(footer.dark.color);
+    background: var(--footer-dark-color);
 }
 .deva-svg-shape svg {
     fill: #f3f7fd;
@@ -3597,7 +3559,7 @@ height: 378px;
     margin-top: -1px;
 }
  #footer-copyright{
-    background:$(footer.dark.color);
+    background:var(--footer-dark-color);
     border-style: solid;
     border-width: 1px 0 0;
     border-color: #ffffff29;
@@ -3684,7 +3646,7 @@ float:left;
     display:none
 }
  .errorWrap{
-    color:$(title.color);
+    color:var(--title-color);
     text-align:center;
     padding:60px 0 100px
 }
