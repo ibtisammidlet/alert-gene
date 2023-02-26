@@ -18,7 +18,7 @@
 
         "subjective-effect": [
             "mania", 
-        ],
+        ], "quantum super-position?": "yes",
 
         "RN":
         {
@@ -30,13 +30,13 @@
             /* Forced by Chitoge */
             "BSO": "", 
             "Rosemary": "", 
-            //* See their discription in concept.xlx
+            //* See their description in concept.xlx
 
         },
 
-        "formilla":
+        "formula":
         {
-            "1.5:2:2:1.5:1:2:1:1@once/day.."
+            "1:2:2:1:1:2:1:1@once/day.."
         },
 
         "disabled-function": [
