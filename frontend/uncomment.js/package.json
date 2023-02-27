@@ -1,0 +1,18 @@
+{
+	"name": "uncomment",
+	"version": "0.3.0",
+	"main": "uncomment.js",
+	"description": "Strips comments out of JavaScript code.",
+	"author": "Jürg Lehni <juerg@scratchdisk.com> (http://scratchdisk.com)",
+	"license": "MIT",
+	"homepage": "https://github.com/lehni/uncomment.js",
+	"repository": "git://github.com/lehni/uncomment.js",
+	"bugs": "https://github.com/lehni/uncomment.js/issues",
+	"keywords": [
+		"javascript",
+		"strip",
+		"comment",
+		"comments",
+		"remove"
+	]
+}
