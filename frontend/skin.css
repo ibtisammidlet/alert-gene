@@ -1139,9 +1139,7 @@ border-radius:50%;
  .social-color .external-link a{
     background-color:var(--dark-color);
 }
-.home #header-wrap {
-position:fixed;
-}
+
  #header-wrap{
    position: relative;
     left: 0;
