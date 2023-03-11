@@ -1,6 +1,3 @@
-# alert-gene
-xxx
-
 ## new standards 
         "values-represention": "geometric-progression"
         "fractional-dynamic": "package"
