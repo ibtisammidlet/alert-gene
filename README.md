@@ -1,5 +1,5 @@
 # alert-gene
-xxx
+stack development framework
 
 ## official site 
 >> alertgene.org (under-development)
