@@ -1,6 +1,6 @@
 "alert~gene":
 {
-    "version": "v2.4.4.23219",
+    "version": "v2.4.5",
     "type": "snapshot",
     "intent": "organization", //* can be expending
 
@@ -20,22 +20,22 @@
             "devil counter-part", //* very old PTSD
             "strightfrowerdness", //* unk/co-omidred D3+ and byproduct of PTSD
             "disinhibited enargy", //* benzo
+            "sleep-preferance-no",
             "NMDA-tune", // manipulated learning ability
             "novelity-seeking",
             "uncare" //* aka anxiety-reaction inhibition by lamo //** also found to be baseline provided
-            "zen-mode", //* contentment based behavior got from BSO
             "boobs size adder/feminine walking pattrene enforcer", //* downregulated AR receptors triggered by CHOP protiene using rosemary oil Carnosic acid
             "full analgesia microdose", //* wide sideded bad emotion numbing ++v2.4.2
             "femininity"
-        ], "quantum super-position?": "yes",
+        ], "quantum super-position?": "yes", //* as a side note, learning/organzing balance has been reached
 
         "RN":
         {
             "anafranil": "75mg", //* base
             "terbutaline": "1ml IM",
-            "bso": "2ml", //* future notice: because of money problems it should not go up
-            "rosemary-oil": "2ml", //* future notice: because empathy problems it should not go up, changes : decreased to half
-            "lavender": "2ml",  //* base, did: the decrease in empathy was replenished by cuteness feminening, start of ^2 using
+            "bso": "0.5ml", //* future notice: because of money problems it should not go up
+            "rosemary-oil": "0.5ml", //* future notice: because empathy problems it should not go up, changes : decreased to half
+            "lavender": "0.5ml",  //* base, did: the decrease in empathy was replenished by cuteness feminening, start of ^2 using
             "prazepam": "10mg", //* base
             "magnesium-pidolate": "1ml IM", //* rounded easy way
             "lidocaine": "1ml IM", //* the subtance of the month
@@ -49,7 +49,16 @@
 
         "disabled-function": [
         "awwerness", //* rational and physical awwerness by betahistine
-        ]
+        "zen-mode", //* no enough protection
+        ],
+
+        "bottelneck": [
+        "pain", //* teeth/general
+        "cold-sensivity", //* questnable efficacy of lavender
+        "harsh/iea", //** significant next-day side effects were discovered lidocaine
+        "restless-leg-syndrome" //** no enough protection
+        ],
+
 
     }
 }
