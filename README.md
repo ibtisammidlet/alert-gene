@@ -1,5 +1,3 @@
-# alert-gene
-stack development framework
 
 ## new standards 
         "values-represention": "geometric-progression"
