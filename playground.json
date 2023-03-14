@@ -18,7 +18,7 @@
             "awake™", //* due to D2++
             "cuteness-overload", //** originally by anfranil, now hermone destreptor
             "devil counter-part", //* very old PTSD
-            "uncare/linking", //** also found to be baseline provided
+            "uncare", //* aka anxiety-reaction inhibition by lamo //** also found to be baseline provided
             "zen-mode", //* contentment based behavior got from BSO
             "strightfrowerdness", //* unk/co-omidred D3+ and byproduct of PTSD
             "disinhibited enargy", //* benzo
@@ -27,7 +27,8 @@
             "novelity-seeking",
             "boobs size adder/feminine walking pattrene enforcer", //* downregulated AR receptors triggered by CHOP protiene using rosemary oil Carnosic acid
             "full analgesia microdose", //* wide sideded bad emotion numbing ++v2.4.2
-            "femininity"
+            "femininity",
+            "linking" //** D2+PTSD crushed soul+uncare fusion
         ], "quantum super-position?": "yes", //* as a side note, learning/organzing balance has been reached
 
         "RN":
@@ -49,15 +50,17 @@
         },
 
         "disabled-function": [
-        "uncare.anxiety-reaction inhibition", //* aka anxiety-reaction inhibition by lamo
+        "anxiety-reaction inhibition", //* aka anxiety-reaction inhibition by lamo
         "awwerness", //* rational and physical awwerness by betahistine
         "zen-mode", //* no enough protection
+        "novelity-seeking", //** no enough providance
+
         ],
 
         "bottelneck": [
         "pain", //* teeth/general
         "cold-sensivity", //* questnable efficacy of lavender
-        "harsh/iea", //** significant next-day side effects were discovered lidocaine
+        "harsh/iea", //** significant next-day side effects were observed lidocaine
         "restless-leg-syndrome" //** no enough protection
         ],
 
