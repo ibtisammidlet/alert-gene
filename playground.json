@@ -35,9 +35,9 @@
         {
             "anafranil": "75mg", //* base
             "terbutaline": "1ml IM",
-            "bso": "0.5ml", //* future notice: because of money problems it should not go up
-            "rosemary-oil": "0.5ml", //* future notice: because empathy problems it should not go up, changes : decreased to half
-            "lavender": "0.5ml",  //* base, did: the decrease in empathy was replenished by cuteness feminening, start of ^2 using
+            "bso": "2ml", //* future notice: because of money problems it should not go up
+            "rosemary-oil": "2ml", //* future notice: because empathy problems it should not go up, changes : decreased to half
+            "lavender": "8ml",  //* base, did: the decrease in empathy was replenished by cuteness feminening, start of ^2 using
             "prazepam": "10mg", //* base
             "magnesium-pidolate": "1ml IM", //* rounded easy way
             "lidocaine": "1ml IM", //* the subtance of the month
@@ -46,7 +46,7 @@
 
         "formula":
         {
-            "1:1:2:1:4:1:5:1:1@once/day.."
+            "1:1:1:1:4:1:5:1:1@once/day.."
         },
 
         "disabled-function": [
