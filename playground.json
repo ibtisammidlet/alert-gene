@@ -48,7 +48,7 @@ discover    "awwerness", //* rational and physical awwerness by betahistine (!)
 
         "formula":
         {
-            "1:2:1:2:12:1:2:2:1@once/day.." //* (!)
+            "1:2:2:2:12:1:2:2:1@once/day.." //* (!)
         },
 
         "disabled-function": [
