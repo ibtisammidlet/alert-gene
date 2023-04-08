@@ -6,3 +6,5 @@
 -linematch for the 20% change/month limite  
 -use neural network diagram to vesuialize fractional dynamic  
 -use uncomment.js to give json2html uncommented data  
+
+-use sublime text copy as html to copy html editor interface.
