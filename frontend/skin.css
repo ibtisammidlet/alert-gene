@@ -3698,3 +3698,9 @@ border-radius:0;
 #editorial-box {
     clear: both;
 }
+.post-footer {
+    display: none;
+}
+div#sidebar-wrapper {
+    display: none !important;
+}
