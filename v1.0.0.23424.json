@@ -1,17 +1,7 @@
 "alert~gene":
 {
-    "version": "v2.4.4.23219",
-    "type": "snapshot",
-    "intent": "organization", //* can be expending
-
-    "standards":
-    {
-        "philosophy": "rewarding-stack",
-        "TaskMangament": "neuronal",
-        "fractional-dynamic": "dose", //* can be dose, price, LT, package (the easiest)
-        "values-represention": "geometric-progression"
-    },
-
+    "version": "v1.0.0.23424",
+    
     "content":
     {
         "subjective-effect": [
