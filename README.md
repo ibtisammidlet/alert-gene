@@ -1,5 +1,5 @@
 ## establishing the idea:
- <strong>_</strong> <strong>╍</strong> <strong>⎽</strong>
+ <strong>_╍⎽</strong>
 
             "v2.4.4", 
                  ^
