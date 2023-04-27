@@ -3,7 +3,7 @@
 
             "v2.4.4", 
                  ^
-                 |          ▁▁ **▬** **╾** **_** **╍** **⎽**
+                 |          ▁▁  <strong>_</strong> <strong>╍</strong> <strong>⎽</strong>
                  |  BSO±xxxmg
                  |     ⭡ ⭭  ▔ talking with your-sefl    
                  ˅      
