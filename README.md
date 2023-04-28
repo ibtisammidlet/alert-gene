@@ -7,3 +7,7 @@ Daylight:
 [            BSO+ROS+LAV+PRA+ANAF           ] [BSO+ROS+LAV+PRA+ANAF] [  VAC+MAG+TER+LID  ]
 
 ![alt text](./frontend/Daylight.png "Hover Text")
+
+## learned:
+-selectivity is more important then you think
+-no substance can replace other
