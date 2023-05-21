@@ -1,6 +1,6 @@
 "cognitive-fatigue":
 {
-    "version": "v1.0.0.23428",
+    "version": "v1.0.1.23521",
     
     "content":
     {
@@ -8,12 +8,14 @@
         {
             "pseudoephedrine-(RHUMAFED)": "30mg", //* future notice: import cause from consepted (pesdu) ==> REM.cognitive.recover (intial↓, LT↓); restlessness (LT↑); body high (intial ↑, LT↑); ++ stack is soo tuned need more clean SB
             "Lamotrigin" "100ug", //* restored from v2.3
-            "Rhodiola-(Phystress)": "90mg" //*
+            "Rhodiola-(Phystress)": "90mg", //*
+            "Phenylephrine/chlorpheniramine(gripex)": "10/4mg" //* used it as pill provider for alertgene + with its e α1-adre+ for Hemorrhoids and chlorpheniramine as on the go anti-histamine/muscarine
+            "domperidone": "10mg", //*
         },
 
         "formula":
         {
-            "1/4:1:1/4@once/day.."
+            "1/4:1:1/4:1:1/4@once/day.."
         }
     }
 }
