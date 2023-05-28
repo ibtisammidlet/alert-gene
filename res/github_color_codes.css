@@ -449,22 +449,12 @@ textarea{overflow:auto;}
 *{box-sizing:border-box;}
 textarea{font-family:inherit;font-size:inherit;line-height:inherit;}
 ::placeholder{color:var(--color-fg-subtle);opacity:1;}
-@media (forced-colors: active){
-*:focus{outline:solid 1px transparent;}
-textarea:focus{outline-offset:2px;}
-}
 }
 /*! CSS Used from: https://github.githubassets.com/assets/global-0d04dfcdc794.css ; media=all */
 @media all{
-@media (prefers-color-scheme: dark){
-[data-color-mode=auto][data-dark-theme*=dark] ::selection{background-color:var(--color-accent-muted);}
-}
 }
 /*! CSS Used from: https://github.githubassets.com/assets/code-19f06efeff3c.css ; media=all */
 @media all{
-@media print{
-.react-blob-print-hide{display:none;}
-}
 .react-blob-print-hide::selection{background-color:var(--color-accent-muted);}
 }
 /*! CSS Used from: Embedded */
@@ -475,16 +465,10 @@ textarea:focus{outline-offset:2px;}
 @media all{
 *{box-sizing:border-box;}
 ::placeholder{color:var(--color-fg-subtle);opacity:1;}
-@media (forced-colors: active){
-*:focus{outline:solid 1px transparent;}
-}
 }
 /*! CSS Used from: https://github.githubassets.com/assets/global-0d04dfcdc794.css ; media=all */
 @media all{
 .pl-ii{color:var(--color-prettylights-syntax-invalid-illegal-text);background-color:var(--color-prettylights-syntax-invalid-illegal-bg);}
-@media (prefers-color-scheme: dark){
-[data-color-mode=auto][data-dark-theme*=dark] ::selection{background-color:var(--color-accent-muted);}
-}
 }
 /*! CSS Used from: https://github.githubassets.com/assets/code-19f06efeff3c.css ; media=all */
 @media all{
@@ -497,15 +481,9 @@ textarea:focus{outline-offset:2px;}
 @media all{
 *{box-sizing:border-box;}
 ::placeholder{color:var(--color-fg-subtle);opacity:1;}
-@media (forced-colors: active){
-*:focus{outline:solid 1px transparent;}
-}
 }
 /*! CSS Used from: https://github.githubassets.com/assets/global-0d04dfcdc794.css ; media=all */
 @media all{
-@media (prefers-color-scheme: dark){
-[data-color-mode=auto][data-dark-theme*=dark] ::selection{background-color:var(--color-accent-muted);}
-}
 }
 /*! CSS Used from: https://github.githubassets.com/assets/code-19f06efeff3c.css ; media=all */
 @media all{
@@ -518,16 +496,10 @@ textarea:focus{outline-offset:2px;}
 @media all{
 *{box-sizing:border-box;}
 ::placeholder{color:var(--color-fg-subtle);opacity:1;}
-@media (forced-colors: active){
-*:focus{outline:solid 1px transparent;}
-}
 }
 /*! CSS Used from: https://github.githubassets.com/assets/global-0d04dfcdc794.css ; media=all */
 @media all{
 .pl-ii{color:var(--color-prettylights-syntax-invalid-illegal-text);background-color:var(--color-prettylights-syntax-invalid-illegal-bg);}
-@media (prefers-color-scheme: dark){
-[data-color-mode=auto][data-dark-theme*=dark] ::selection{background-color:var(--color-accent-muted);}
-}
 }
 /*! CSS Used from: https://github.githubassets.com/assets/code-19f06efeff3c.css ; media=all */
 @media all{
@@ -541,16 +513,10 @@ textarea:focus{outline-offset:2px;}
 @media all{
 *{box-sizing:border-box;}
 ::placeholder{color:var(--color-fg-subtle);opacity:1;}
-@media (forced-colors: active){
-*:focus{outline:solid 1px transparent;}
-}
 }
 /*! CSS Used from: https://github.githubassets.com/assets/global-0d04dfcdc794.css ; media=all */
 @media all{
 .pl-ii{color:var(--color-prettylights-syntax-invalid-illegal-text);background-color:var(--color-prettylights-syntax-invalid-illegal-bg);}
-@media (prefers-color-scheme: dark){
-[data-color-mode=auto][data-dark-theme*=dark] ::selection{background-color:var(--color-accent-muted);}
-}
 }
 /*! CSS Used from: https://github.githubassets.com/assets/code-19f06efeff3c.css ; media=all */
 @media all{
