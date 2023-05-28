@@ -1044,7 +1044,7 @@ textarea{font-family:inherit;font-size:inherit;line-height:inherit;}
 .pl-ent {
     color: var(--color-prettylights-syntax-entity-tag);
 }
-.react-code-text {
+.react-code-text span {
     font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
     font-size: 12px;
     line-height: 20px;
