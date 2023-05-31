@@ -15,7 +15,7 @@
             {"rank": 6, "substance": "Phenibut",        "highest clinical dose": "250mg",   "target":"cal-",                              "evidence": ""},
             {"rank": 7, "substance": "Mag pid",         "highest clinical dose": "5g",      "target":"NMDA-",                             "evidence": ""},
             {"rank": 8, "substance": "sam-e",           "highest clinical dose": "0.2g",    "target":"",                                  "evidence": ""},
-            {"rank": 9, "substance": "tenoten",         "highest clinical dose": "",        "target":"S-100B-",                           "evidence": ""},
+            {"rank": 9, "substance": "tenoten",         "highest clinical dose": "",        "target":"S-100B-",                           "evidence": ""}, //** https://europepmc.org/article/MED/36771418
             {"rank": 10, "substance": "Selank",         "highest clinical dose": "250mcg",  "target":"dor+",                              "evidence": ""},
             {"rank": 11, "substance": "Proglumide",     "highest clinical dose": "",        "target":"trigger-sensitizer",                "evidence": ""},
             {"rank": 12, "substance": "Fasoracetam",    "highest clinical dose": "",        "target":"mGluRs+",                           "evidence": ""},
