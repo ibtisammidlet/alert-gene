@@ -1,0 +1,115 @@
+<html><head>
+
+    <script src="https://raw.githack.com/ibtisammidlet/alert-gene/2.4.3.23516/frontend/json2html/js/util.js" type="text/javascript"></script>
+    <script src="https://raw.githack.com/ibtisammidlet/alert-gene/2.4.3.23516/frontend/json2html/js/extended-types.js" type="text/javascript"></script>
+    <script src="https://raw.githack.com/ibtisammidlet/alert-gene/2.4.3.23516/frontend/json2html/js/tree.js" type="text/javascript"></script>
+    <script src="https://raw.githack.com/ibtisammidlet/alert-gene/2.4.3.23516/frontend/json2html/js/render.js" type="text/javascript"></script>
+    <script src="https://raw.githack.com/ibtisammidlet/alert-gene/2.4.3.23516/frontend/json2html/js/modal.js" type="text/javascript"></script>
+    <script src="https://raw.githack.com/ibtisammidlet/alert-gene/2.4.3.23516/frontend/json2html/js/statistics.js" type="text/javascript"></script>
+    <script src="https://raw.githack.com/ibtisammidlet/alert-gene/2.4.3.23516/frontend/json2html/js/parse.js" type="text/javascript"></script>
+    <script src="https://raw.githack.com/ibtisammidlet/alert-gene/2.4.3.23516/frontend/json2html/js/output.js" type="text/javascript"></script>
+
+    <title>JSON 2 HTML</title>
+    <meta charset="utf-8">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <style>body{font-size:100%;}</style><style>/*! CSS Used from: https://raw.githack.com/ibtisammidlet/alert-gene/2.4.3.23516/frontend/json2html/css/modern-normalize.css */
+*,*::before,*::after{box-sizing:border-box;}
+:root{-moz-tab-size:4;tab-size:4;}
+html{line-height:1.15;-webkit-text-size-adjust:100%;}
+body{margin:0;}
+body{font-family:-apple-system,     'Segoe UI',     system-ui,     Noto,     'Helvetica Neue',     sans-serif,     'Apple Color Emoji',     'Segoe UI Emoji';}
+hr{height:0;color:inherit;}
+code{font-family:ui-monospace,     SFMono-Regular,     'SF Mono',     'Ubuntu Mono',     Consolas,     'DejaVu Sans Mono',     'Liberation Mono',     Menlo,     monospace;font-size:1em;}
+input,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0;}
+[type='button'],[type='submit']{-webkit-appearance:button;}
+/*! CSS Used from: https://raw.githack.com/ibtisammidlet/alert-gene/2.4.3.23516/frontend/json2html/css/style.css */
+body{display:inline-block;min-width:100%;padding-bottom:114px;font-size:16px;background-color:#ffffff;color:#000000;}
+body,input,textarea{line-height:1.4;}
+p{margin:0 0 22px;}
+hr{border:none;height:1px;background-color:#808080;}
+textarea{width:100%;margin-bottom:5px;padding:1px;border:1px solid purple;}
+input[type="button"],input[type="submit"]{font-size:large;}
+#header{height:107px;padding-top:17px;background:url("https://raw.githack.com/ibtisammidlet/alert-gene/2.4.3.23516/frontend/json2html/images/top1.png") repeat-x;text-align:center;}
+form{max-width:calc(100vw - 17px);padding:0 16px;}
+form p{font-size:18px;}
+#output{padding:16px;}
+#footer{background-color:#ffffaa;padding:5px 16px;}
+#focus{display:flex;position:fixed;right:0;bottom:0;left:0;padding:10px;line-height:1.6;background-color:#ffffff;border-top:1px solid #ccc;box-shadow:0 -6px 10px rgb(0 0 0 / 18%);}
+#focus label{font-weight:500;}
+#focus-output{display:flex;flex-direction:column;flex:1;}
+/*! CSS Used from: https://raw.githack.com/ibtisammidlet/alert-gene/2.4.3.23516/frontend/json2html/css/modal.css */
+#modal-backdrop{position:fixed;top:0;right:0;bottom:0;left:0;padding:20px;background-color:rgba(0, 0, 0, 0.6);display:none;}
+#modal{display:none;max-height:100%;max-width:600px;margin:0 auto;padding:16px;overflow:auto;background-color:#fff;border:1px solid #999;}
+#modal-close{display:block;float:right;margin:-15px -10px 0 0;font-size:30px;line-height:1;text-decoration:none;}</style></head>
+  <body>
+    <div id="header">
+      <img alt="json 2 html" src="file:///E:/data/development/nodejs/node_modules/alertgene/alert-gene/frontend/json2html/images/logo.png">
+    </div>
+
+    <form>
+      <p>
+        This page offers an easy way to visualize a string of JSON text.
+        Put some JSON into the text area, and this page will instantly display the text as a set of nested boxes,
+        corresponding to the objects, arrays and values in the JSON string.<br>
+        You can also paste a URL into the textarea, and the JSON string will be loaded from the URL.
+      </p>
+      <p>
+        JSON 2 HTML is open source and released under the MIT license -
+        <a href="http://github.com/bloopletech/json2html/tree/master">get the source on github</a>. Patches / improvements are welcomed!
+      </p>
+      <code>
+        <textarea id="text" rows="12" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"></textarea>
+      </code>
+      <input id="submit" type="submit" value="json 2 html">
+      <input id="reset" type="button" value="reset">
+    </form>
+
+    <hr>
+
+    <div id="output"></div>
+
+    <div id="footer">
+      Check out my portfolio at
+      <a href="http://i.bloople.net">i.bloople.net</a>. © Brenton Fletcher. Comments? e-mail me:
+      <a href="mailto:i@bloople.net">i@bloople.net</a>.
+    </div>
+
+    <div id="focus">
+      <div id="focus-output">
+        <div>
+          <label>Property path:</label> <code id="focus-path"></code>
+        </div>
+        <div>
+          <label>Trail:</label> <span id="focus-trail"></span>
+        </div>
+        <div>
+          <label>Type:</label> <span id="focus-type"></span><span id="focus-extended-type"></span>
+        </div>
+      </div>
+      <div id="actions">
+        <input type="button" id="show-stats" value="Statistics" disabled="">
+        <input type="button" id="show-help" value="Help">
+      </div>
+    </div>
+
+    
+  
+
+    <div id="modal-backdrop">
+      <div id="modal">
+        <a href="#" id="modal-close">×</a>
+        <div id="modal-content"></div>
+      </div>
+    </div>
+  </body></html>
