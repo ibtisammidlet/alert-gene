@@ -6,7 +6,7 @@
 
     "standards":
     {
-        "philosophy": "rewarding-stack",
+        "philosophy": "bio-tuning",
         "TaskMangament": "neuronal",
         "fractional-dynamic": "dose", //* can be dose, price, LT, package (the easiest)
         "values-represention": "geometric-progression"
@@ -20,6 +20,7 @@
             "devil counter-part", //* very old PTSD
             "strightfrowerdness", //* unk/co-omidred D3+ and byproduct of PTSD
             "disinhibited enargy", //* benzo
+            "sleep-preferance-no",
             "NMDA-tune", // manipulated learning ability
             "novelity-seeking", //* novelity-seeking is wayy profound in this stack
             "uncare" //* aka anxiety-reaction inhibition by lamo //** also found to be baseline provided
@@ -27,6 +28,8 @@
             "boobs size adder/feminine walking pattrene enforcer", //* downregulated AR receptors triggered by CHOP protiene using rosemary oil Carnosic acid
             "full analgesia microdose", //* wide sideded bad emotion numbing ++v2.4.2
             "femininity",
+            "linking", //** D2+PTSD crushed soul+uncare fusion
+            "BPDmhy" //* no enough protection (!)
 			"IRL-hyper-productivity" //* high lamo low sero depandant
         ], "quantum super-position?": "yes",
 
@@ -53,7 +56,14 @@
 
         "disabled-function": [
         "awwerness", //* rational and physical awwerness by betahistine
-        ]
+        ], //** progressive note (!)==>: the route of tuning the stack more xxx (!)
 
+        "bottelneck": [/*
+        "pain", //* teeth/general
+        "cold-sensivity", //* questnable efficacy of lavender
+        "harsh/iea", //** significant next-day side effects were observed lidocaine
+        "restless-leg-syndrome" //** no enough protection
+        *///* (!)
+        ]
     }
 }
