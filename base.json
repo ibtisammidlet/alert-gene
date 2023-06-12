@@ -42,13 +42,14 @@
         /*  "pseudoephedrine-(RHUMAFED)": "50mg", //* future notice: import cause from consepted (pesdu) ==> REM.cognitive.recover (intial↓, LT↓); restlessness (LT↑); body high (intial ↑, LT↑); ++ stack is soo tuned need more clean SB
         /*  "betahistine": "24mg", future notice: because feeling worried blocked the legendary uncare linking cognitive function*/
             "lidocaine": "1ml IM", //* the subtance of the month
+            "diosmin": "600mg", //* it will never be enough (lavender)
             "vasicine" "5ml" //* future notice: can't be just addon or replaced, physical flu symptomp was more then important, to be inhibited ofc :)
             "Lamotrigin" "100ug" //* restored from v2.3
         },
 
         "formula":
         {
-            "1:1:1:1:8:1:5:1:1:1@once/day.."
+            "1:1:1:1:8:1:5:1:1/4:1:1@once/day.."
         },
 
         "disabled-function": [
