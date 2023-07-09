@@ -1,21 +1,17 @@
-"cognitive-fatigue":
+"subs-delivery":
 {
-    "version": "v1.0.3.23613",
+    "version": "v1.0.0.2379",
     
     "content":
     {
             "RN":
         {
-            "pseudoephedrine-(RHUMAFED)": "30mg", //* of breast cancer :paracetamol //** Acetaminophen-induced proliferationcells https://pubmed.ncbi.nlm.nih.gov/10079213/ , Triprolidine is selective on histamine , and ibupprofen is reguler COX 1/2 inhibitor
-            "Lamotrigin" "750ug", //* restored from v2.3
-            "Rhodiola-(Phystress)": "90mg", //*
-            "Phenylephrine/chlorpheniramine(gripex)": "10/4mg" //* used it as pill provider for alertgene + with its e α1-adre+ for Hemorrhoids and chlorpheniramine as on the go anti-histamine/muscarine
-            "domperidone": "10mg", //*
-        }, //* (!) ==> 2 aspegic 500mg so i don't fall down on any cox inhibitor
+			//* this brench is to make standars on how the final intake of alertgene will be
+        }, //* (!) ==> here 2.5ml cup, 20ml cup, 1 pill to allocate powder
 
         "formula":
         {
-            "1/4:1:1/4:1:1/4@once/day.."
+            "1:1@once/day.."
         }
     }
 }
