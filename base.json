@@ -48,7 +48,7 @@
 
         "formula":
         {
-            ":1::7:::1:1::1:1:@twice/day.." //** twice because you need active descovering life, none full-day sleep induce undescoverment and unprodctivity life style, more stabale, day is more then needed for twicy
+            "1:7:1:1:1:1:1@twice/day.." //** twice because you need active descovering life, none full-day sleep induce undescoverment and unprodctivity life style, more stabale, day is more then needed for twicy
         },
 
         "disabled-function": [
