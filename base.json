@@ -7,7 +7,7 @@
     "standards":
     {
         "philosophy": "rewarding-stack/bio-tuning", //** prioritiezing rewarding stack
-        "TaskMangament": "neuronal",
+        "TaskMangament": "hapital",
         "fractional-dynamic": "dose", //* can be dose, price, LT, package (the easiest)
         "values-represention": "geometric-progression"
     },
