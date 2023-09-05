@@ -1,6 +1,6 @@
 "alert~gene":
 {
-    "version": "v3.0.0.23731",
+    "version": "v3.4.6.2393",
     "type": "snapshot",
     "intent": "organization", //* can be expending
 
@@ -23,7 +23,7 @@
             "strightfrowerdness", //* unk/co-omidred D3+ and byproduct of PTSD
             "disinhibited enargy", //* benzo
             "sleep-preferance-no",
-            "NMDA-tune", // manipulated learning ability
+         /* "NMDA-tune", // manipulated learning ability , to be deprecated , support: getting used (intial ↑, LT↑); */
             "novelity-seeking", //* novelity-seeking is wayy profound in this stack
             "uncare" //* aka anxiety-reaction inhibition by lamo //** also found to be baseline provided
             "zen-mode", //* contentment based behavior got from BSO
@@ -37,18 +37,18 @@
 
         "RN":
         {
-            "terbutaline": "2.5ml",
+            "terbutaline": "-1ml IM",
             "rosemary-oil": "1ml", //* future notice: serotonine put you in overconsumption life, and break the stack, before your reach old ibti cuteness overload, also this use extreme alot of time in comminications  changes : relay on stack-cycaling
-            "magnesium-pidolate": "2.5ml", //* rounded easy way
+            "magnesium-pidolate": "-1ml IM", //* rounded easy way
             "lidocaine": "1ml rectall", //* the subtance of the month
-            "vasicine": "-2.5ml", //* future notice: can't be just addon or replaced, physical flu symptomp was more then important, to be inhibited ofc :)
+            "vasicine": "-5ml", //* future notice: can't be just addon or replaced, physical flu symptomp was more then important, to be inhibited ofc :)
             "Lamotrigin": "100ug", //* restored from v2.3
-            "omega-3": ""
+            "omega-3": "-1g"
         },
 
         "formula":
         {
-            "1:7:1:1:1:1:1@twice/day.." //** twice because you need active descovering life, none full-day sleep induce undescoverment and unprodctivity life style, more stabale, day is more then needed for twicy
+            "1:1:5:1:1:1:1/2@twice/day.." //** twice because you need active descovering life, none full-day sleep induce undescoverment and unprodctivity life style, more stabale, day is more then needed for twicy
         },
 
         "disabled-function": [
