@@ -9,7 +9,10 @@
         "philosophy": "rewarding-stack/bio-tuning", //** prioritiezing rewarding stack
         "TaskMangament": "hapital",
         "fractional-dynamic": "dose", //* can be dose, price, LT, package (the easiest)
-        "values-represention": "geometric-progression"
+        "values-represention": "geometric-progression",
+		"development": "thought-stream", //** analyzation technique
+		"g-factor": "crystallized-intelligence", 
+		"Collective-intelligence": "sigma-male" //** narrcisim based
     },
 
     "content":
