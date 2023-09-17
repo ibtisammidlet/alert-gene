@@ -26,3 +26,7 @@ DELETE: Used, in cratical cases
 PRE-FLIGHT: Used, when BSO PFC Bayesian inference (intial ↑); available
 GET: used, when betahistine easy navigation between strongest consolidated ideas (intial ↑, LT↑); available.
 https://en.wikipedia.org/wiki/Attractor_network
+
+![alt text](./res/sketch.png "Hover Text")  
+![alt text](./res/graph.png "Hover Text")  
+
