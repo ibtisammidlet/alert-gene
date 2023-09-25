@@ -6,24 +6,24 @@
 
     "standards":
     {
-        "philosophy": "rewarding-stack/bio-tuning", //** prioritiezing rewarding stack
+        "philosophy": "rewarding-stack/bio-tuning", //** prioritiezing rewarding-stack
         "TaskMangament": "hapital",
-        "fractional-dynamic": "dose", //* can be dose, price, LT, package (the easiest)
+        "fractional-dynamic": "package/dose", //* can be dose, price, LT, package (the easiest)
         "values-represention": "geometric-progression",
-		"development": "thought-stream", //** analyzation technique
-		"g-factor": "crystallized-intelligence", 
-		"Collective-intelligence": "sigma-male", //** narrcisim based
-		"information-gathering": "extended" //** can be timely choice Arbitraty
+        "development": "thought-stream", //** analyzation technique
+        "g-factor": "crystallized-intelligence", 
+        "Collective-intelligence": "sigma-male", //** narrcisim based
+        "information-gathering": "extended" //** can be timely choice Arbitraty
     },
 
     "content":
     {
         "subjective-effect": [
             "awake™", //* due to D2++
-			"stability", //** perfectionsim-disabled
+            "stability", //** perfectionsim-disabled
             "cuteness-overload", //** originally by anfranil, now hermone destreptor
             "devil counter-part", //* very old PTSD
-			"logic-raping", //** optamism/aversion induce trigger dependance break , known as buddhism support: lamo for omptamizm lidocaine for aversion
+            "logic-raping", //** optamism/aversion induce trigger dependance break , known as buddhism support: lamo for omptamizm lidocaine for aversion
             "strightfrowerdness", //* unk/co-omidred D3+ and byproduct of PTSD
             "disinhibited enargy", //* benzo
             "sleep-preferance-no",
@@ -35,7 +35,7 @@
             "full analgesia microdose", //* wide sideded bad emotion numbing ++v2.4.2
             "femininity",
             "linking", //** D2+PTSD crushed soul+uncare fusion
-            "BPDmhy", //* no enough protection (!)
+            "BPDmhy", //* no enough protection (!), update: fixed by increasing cognitive-fatige stack ration , active compondent is domperidone d3- induce facilation in empaty-related things
             "IRL-hyper-productivity" //* high lamo low sero depandant
         ], "quantum super-position?": "yes",
 
@@ -47,7 +47,7 @@
             "lidocaine": "1ml rectall", //* the subtance of the month
             "vasicine": "-5ml", //* future notice: can't be just addon or replaced, physical flu symptomp was more then important, to be inhibited ofc :)
             "Lamotrigin": "100ug", //* restored from v2.3
-            "omega-3": "-1g"
+            "omega-3": "-1g" //* deprecated for moment being, support: not upto cleaness standards of the stack
         },
 
         "formula":
