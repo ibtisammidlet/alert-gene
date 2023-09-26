@@ -19,13 +19,13 @@ https://mycll.org/for-parents-and-teachers/higher-level-thinking/
 information-gathering Arbitraty
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6083454/
 
-Attractor network methods:
-ADD: Used.
-REWRITE: not used, hard on memory
-DELETE: Used, in cratical cases
-PRE-FLIGHT: Used, when BSO PFC Bayesian inference (intial ↑); available
-GET: used, when betahistine easy navigation between strongest consolidated ideas (intial ↑, LT↑); available.
-https://en.wikipedia.org/wiki/Attractor_network
+Attractor network methods:  
+ADD: Used.  
+REWRITE: not used, hard on memory  
+DELETE: Used, in cratical cases  
+PRE-FLIGHT: Used, when BSO PFC Bayesian inference (intial ↑); available  
+GET: used, when betahistine easy navigation between strongest consolidated ideas (intial ↑, LT↑); available.  
+https://en.wikipedia.org/wiki/Attractor_network  
 
 ![alt text](./res/sketch.png "Hover Text")  
 ![alt text](./res/graph.png "Hover Text")  
