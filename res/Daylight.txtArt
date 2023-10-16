@@ -2,11 +2,6 @@ Daylight:
 [                                                      24h                                                      ]
 [8am        alertgenev2(BSO+ROS+LAV+PRA+ANAF)        8pm][8pm        alertgenev2(BSO+ROS+LAV+PRA+ANAF)       8am]
 [8am cogntitve-fatigue(PSE+LAMO+REH+PHEN+CHLO+DOMP)  8pm][8pm cogntitve-fatigue(PSE+LAMO+REH+PHEN+CHLO+DOMP) 8am]
-[8am             cogntitve-fatigue-patch             8pm][8pm            cogntitve-fatigue-patch             8am]
-[8am                alertgenev3(OMG)                 8pm][8pm                alertgenev3(OMG)                8am]
 ----------------------------------------------------------------------------------------------------------------
-++changes: rosmary one dose go to evening, anafranil taken all at morning
-cogntitve-fatigue and lidocaine coupled thougher
-omega-3 cycled every other day
-sometimes you delay everything expect lidocaine in morning for going out
+++changes: cogntitve-fatigue half pill a day
 ------------------------------
