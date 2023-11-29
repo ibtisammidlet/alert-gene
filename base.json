@@ -1,6 +1,6 @@
 "cognitive-fatigue":
 {
-    "version": "v1.0.3.2396",
+    "version": "v1.0.4.231114",
     
     "content":
     {
@@ -15,31 +15,84 @@
 
         "formula":
         {
-            "1/4:1:1/4:1:1/4@once/day.."
+            "1[butt brike]@3time's/day" // transilation of 1/4:1:1/4:1:1/4@once/day..* to .make() way
         }
     }
 }
-/** stack formalation:
-------------
-old 
-lamo was 5mg spreaded on normally 25d = 0.2mg/d 
-6.25 pill romafed 
-6.25 pill rediola
-1 full normal gripax
+/** stack thoght stream cascade preparing:
+possibilty you need pesdu in the mix
+xxxx
+x    x    x    x
 
-later added 6.25 pill domp
-----------------
-8 pill rediola
-8 pill domp 
-1 full normal gripax
-now lamo 25mg spreaded on normally 32d = 0.75mg/d
 
-need to add remafude 8 pill rediola
-remafude :paracetamol //** Acetaminophen-induced proliferation of breast cancer cells https://pubmed.ncbi.nlm.nih.gov/10079213/ , Triprolidine is selective on histamine , and ibupprofen is reguler COX 1/2 inhibitor
-+2 aspegic 500mg so i don't fall down on any cox inhibitor
-=62
-----------------
-**/
-/** added on 2023-11-29
-in mention of formula daily dose was cognitive-fatigue-v1.0.3.2396 1/4[butt brike]@once/day 1/4 normal not full automatic of downside hole (like a butt) of Lighter
+
+xxxx xxxx xxxx xxxx
+
+x    x    x    x
++
+DOMP+CET+LAMO
+DOMP+LAMO+CHLO+pesdu
+PSE+LAMO+REH+PHEN+CHLO+DOMP
+REH
+LAMO+CHLO
+
+PSE=x/3
+REH=x/3
+DOMP=x/3
+
+PSE=x
+REH=x
+DOMP=x
+
+x x x x  x  x
+
+LAMO+CHLO
+
+PSE=PPPPPPPP
+REH=PPPPPPPP
+DOMP=PPPPPPPP
+LAMO=P/4
+CHLO=all
+
+----------
+3 brike butt=1 white gripex pill
+----------
+PPPPPPPP
+PPPPPPPP
+PPPPPPPP
+
+PSE=xx
+REH=xx
+DOMP=xx
+
+PSE=PPPPPPPP
+REH=PPPPPPPP
+DOMP=PP
+LAMO=P
+CHLO=all
+
+PSE=PPPPPPPP
+REH=PPPPPPPP
+DOMP=PPPP
+LAMO=P
+CHLO=all
+
+PSE =PPPPPPPP
+REH =PPPPPPPP
+DOMP=PPPP
+LAMO=P/4
+CHLO=all
+
+PSE =PPPPPPPP
+REH =PPPPPPPP
+DOMP=PP
+LAMO=P/4
+
+PSE =PPPPPPPP
+REH =PPPPPPPP
+DOMP=PP
+LAMO=P/4
+CHLO=all
+^^
+stack formalation
 **/
