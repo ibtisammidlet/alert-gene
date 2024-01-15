@@ -1,7 +1,6 @@
 Daylight:
 [                                                      24h                                                      ]
-[8am        alertgenev2(BSO+ROS+LAV+PRA+ANAF)        8pm][8pm        alertgenev2(BSO+ROS+LAV+PRA+ANAF)       8am]
-[8am cogntitve-fatigue(PSE+LAMO+REH+PHEN+CHLO+DOMP)  8pm][8pm cogntitve-fatigue(PSE+LAMO+REH+PHEN+CHLO+DOMP) 8am]
+[9am          alertgenev2          5pm][5pm          alertgenev2         1am][1pm        alertgenev2         9am]
 ----------------------------------------------------------------------------------------------------------------
-++changes: cogntitve-fatigue half pill a day
+++changes:
 ------------------------------
