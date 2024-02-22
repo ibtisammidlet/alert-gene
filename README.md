@@ -13,3 +13,6 @@ criticality to monitor:
   
 dual system mode https://en.wikipedia.org/wiki/Dual_systems_model  
 ![alt text](./res/dual_system_mode.png "Hover Text")  
+  
+neuronal map https://en.wikipedia.org/wiki/Dual_systems_model  
+![alt text](./res/neuronal_map.png "Hover Text")  
