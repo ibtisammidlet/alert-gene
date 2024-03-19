@@ -9,7 +9,7 @@
             "pseudoephedrine-(RHUMAFED)": "30mg", //* of breast cancer :paracetamol //** Acetaminophen-induced proliferationcells https://pubmed.ncbi.nlm.nih.gov/10079213/ , Triprolidine is selective on histamine , and ibupprofen is reguler COX 1/2 inhibitor
             "Lamotrigin": "750ug", //* restored from v2.3
             "Rhodiola-(Phystress)": "90mg", //*
-/*            "Phenylephrine/chlorpheniramine(gripex)": "10/4mg" //* used it as pill provider for alertgene + with its e α1-adre+ for Hemorrhoids and chlorpheniramine as on the go anti-histamine/muscarine */ // thisbrend no longer availble in stores
+            "cetirizine": "10mg", //** cleaner antihistamine based on research papers, histamine dose was high
             "domperidone": "10mg", //** support: lactation,D2-
         }, //* (!) ==> i'm using clove instead of aspegic
 
@@ -34,5 +34,17 @@ REH =PPPPPPPP
 DOMP=PPPPPP
 LAMO=P/4
 ARA=5ml
-
+--------------
+<hta was accelevnt to
+PSE =PPPPPPPP
+REH =PPPPPPPP
+DOMP=PPPPPP
+LAMO=P/4
+-----
+PSE =PP
+REH =PP
+DOMP=P+1/2P
+LAMO=P/4/1/4
+water used x2 comapered to first arabic gum based stack
+ARA=15ml
 **/
