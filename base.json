@@ -1,6 +1,6 @@
 "cognitive-fatigue":
 {
-    "version": "v1.0.5.24319",
+    "version": "v1.0.6.24319",
     
     "content":
     {
@@ -10,6 +10,7 @@
             "Lamotrigin": "750ug", //* restored from v2.3
             "Rhodiola-(Phystress)": "90mg", //*
 /*            "Phenylephrine/chlorpheniramine(gripex)": "10/4mg" //* used it as pill provider for alertgene + with its e α1-adre+ for Hemorrhoids and chlorpheniramine as on the go anti-histamine/muscarine */ // thisbrend no longer availble in stores
+            "cetirizine": "10mg", //** cleaner antihistamine based on research papers, histamine dose was high
             "domperidone": "10mg", //** support: lactation,D2-
         }, //* (!) ==> i'm using clove instead of aspegic
 
@@ -34,5 +35,6 @@ REH =PPPPPPPP
 DOMP=PPPPPP
 LAMO=P/4
 ARA=5ml
+-------------
 
 **/
