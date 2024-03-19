@@ -1,6 +1,6 @@
 "cognitive-fatigue":
 {
-    "version": "v1.0.4.231114",
+    "version": "v1.0.5.24319",
     
     "content":
     {
@@ -9,90 +9,30 @@
             "pseudoephedrine-(RHUMAFED)": "30mg", //* of breast cancer :paracetamol //** Acetaminophen-induced proliferationcells https://pubmed.ncbi.nlm.nih.gov/10079213/ , Triprolidine is selective on histamine , and ibupprofen is reguler COX 1/2 inhibitor
             "Lamotrigin": "750ug", //* restored from v2.3
             "Rhodiola-(Phystress)": "90mg", //*
-            "Phenylephrine/chlorpheniramine(gripex)": "10/4mg" //* used it as pill provider for alertgene + with its e α1-adre+ for Hemorrhoids and chlorpheniramine as on the go anti-histamine/muscarine
+/*            "Phenylephrine/chlorpheniramine(gripex)": "10/4mg" //* used it as pill provider for alertgene + with its e α1-adre+ for Hemorrhoids and chlorpheniramine as on the go anti-histamine/muscarine */ // thisbrend no longer availble in stores
             "domperidone": "10mg", //** support: lactation,D2-
-        }, //* (!) ==> 2 aspegic 500mg so i don't fall down on any cox inhibitor
+        }, //* (!) ==> i'm using clove instead of aspegic
 
         "formula":
         {
-            "1+1/2[butt brike]@3time's/day" // transilation of 1/4:1:1/4:1:1/4@once/day..* to .make() way
+            "2fullsyringe@3time's/day" // transilation of 1/4:1:1/4:1:1/4@once/day..* to .make() way
         }
     }
 }
-/** stack thoght stream cascade preparing:
-possibilty you need pesdu in the mix
-xxxx
-x    x    x    x
+/** stack progressive_notes.txt preparing
+used the 15ml mililiterer, added 35ml water to 80ml container of lavender oil
+added arabic gum to full=45ml
+x2 =90ml+5ml by 10ml water in the 15 mililiterer
+=95+5 of old formilla with the 20ml cognitive fatigue stack
 
-
-
-xxxx xxxx xxxx xxxx
-
-x    x    x    x
-+
-DOMP+CET+LAMO
-DOMP+LAMO+CHLO+pesdu
-PSE+LAMO+REH+PHEN+CHLO+DOMP
-REH
-LAMO+CHLO
-
-PSE=x/3
-REH=x/3
-DOMP=x/3
-
-PSE=x
-REH=x
-DOMP=x
-
-x x x x  x  x
-
-LAMO+CHLO
-
-PSE=PPPPPPPP
-REH=PPPPPPPP
-DOMP=PPPPPPPP
-LAMO=P/4
-CHLO=all
-
-----------
-3 brike butt=1 white gripex pill
-----------
-PPPPPPPP
-PPPPPPPP
-PPPPPPPP
-
-PSE=xx
-REH=xx
-DOMP=xx
-
-PSE=PPPPPPPP
-REH=PPPPPPPP
-DOMP=PP
-LAMO=P
-CHLO=all
-
-PSE=PPPPPPPP
-REH=PPPPPPPP
-DOMP=PPPP
-LAMO=P
-CHLO=all
-
+used jeeb of old pants for drying the arabic gum
+used new container to save the result 
+------
+the new cognitive fatigue formilla wighted 25ml
 PSE =PPPPPPPP
 REH =PPPPPPPP
-DOMP=PPPP
+DOMP=PPPPPP
 LAMO=P/4
-CHLO=all
+ARA=5ml
 
-PSE =PPPPPPPP
-REH =PPPPPPPP
-DOMP=PP
-LAMO=P/4
-
-PSE =PPPPPPPP
-REH =PPPPPPPP
-DOMP=PP
-LAMO=P/4
-CHLO=all
-^^
-stack formalation
 **/
