@@ -1,18 +1,19 @@
 "valence--":
 {
-    "version": "v1.0.0.24330",
+    "version": "v1.0.1.24330",
     
     "content":
     {
             "RN":
         {
-            "tea": "30", //* 
-            "clove": "1" //* 10 one's with tea in jar reblanched after 5 days
-        }, //* (!) ==> i'm using clove instead of aspegic
+            "tea": "10", //* 
+            "clove": "1", //* 10 one's with tea in jar reblanched after 5 days
+            "lemon balm": "1" //* reblench after 2day
+        }, //* (!) ==> i'm using clove instead of aspegic, lemon balm is the gabagodness
 
         "formula":
         {
-            "3:2@casualy/day" // transilation of 1/4:1:1/4:1:1/4@once/day..* to .make() way, dzd bud kg
+            "3:2:1@casualy/day" // transilation of 1/4:1:1/4:1:1/4@once/day..* to .make() way, dzd bud 
         }
     }
 }
