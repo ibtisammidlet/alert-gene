@@ -1,3 +1,3 @@
 ## establishing the idea:  
  
-extending release of the stack by arabic gum  
+"lembic-less system" with negative valence disabled

@@ -1,50 +1,24 @@
-"cognitive-fatigue":
+"valence--":
 {
-    "version": "v1.0.5.24319",
+    "version": "v1.0.0.24330",
     
     "content":
     {
             "RN":
         {
-            "pseudoephedrine-(RHUMAFED)": "30mg", //* of breast cancer :paracetamol //** Acetaminophen-induced proliferationcells https://pubmed.ncbi.nlm.nih.gov/10079213/ , Triprolidine is selective on histamine , and ibupprofen is reguler COX 1/2 inhibitor
-            "Lamotrigin": "750ug", //* restored from v2.3
-            "Rhodiola-(Phystress)": "90mg", //*
-            "cetirizine": "10mg", //** cleaner antihistamine based on research papers, histamine dose was high
-            "domperidone": "10mg", //** support: lactation,D2-
+            "tea": "30", //* 
+            "clove": "1" //* 10 one's with tea in jar reblanched after 5 days
         }, //* (!) ==> i'm using clove instead of aspegic
 
         "formula":
         {
-            "2fullsyringe@3time's/day" // transilation of 1/4:1:1/4:1:1/4@once/day..* to .make() way
+            "3:2@casualy/day" // transilation of 1/4:1:1/4:1:1/4@once/day..* to .make() way, dzd bud kg
         }
     }
 }
-/** stack progressive_notes.txt preparing
-used the 15ml mililiterer, added 35ml water to 80ml container of lavender oil
-added arabic gum to full=45ml
-x2 =90ml+5ml by 10ml water in the 15 mililiterer
-=95+5 of old formilla with the 20ml cognitive fatigue stack
+/* stack progressive_notes.txt preparing
+//1:1 clover oil lidocaine2%
+last month i eated 7dzdx10 clove
 
-used jeeb of old pants for drying the arabic gum
-used new container to save the result 
-------
-the new cognitive fatigue formilla wighted 25ml
-PSE =PPPPPPPP
-REH =PPPPPPPP
-DOMP=PPPPPP
-LAMO=P/4
-ARA=5ml
---------------
-<hta was accelevnt to
-PSE =PPPPPPPP
-REH =PPPPPPPP
-DOMP=PPPPPP
-LAMO=P/4
------
-PSE =PP
-REH =PP
-DOMP=P+1/2P
-LAMO=P/4/1/4
-water used x2 comapered to first arabic gum based stack
-ARA=15ml
-**/
+those substacne doesn't cause harm to the previwes stacks
+*/
