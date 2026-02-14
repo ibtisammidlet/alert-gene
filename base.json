@@ -1,6 +1,6 @@
 "valence--":
 {
-    "version": "v1.0.1.24330",
+    "version": "v1.0.2.26214",
     
     "content":
     {
@@ -9,6 +9,7 @@
             "tea": "10", //* 
             "clove": "1", //* 10 one's with tea in jar reblanched after 5 days
             "lemon balm": "1" //* reblench after 2day
+            "fso": "" //* === flaxseed *essential oil, better conversation to dha epa , supply chain none expiration stockage
         }, //* (!) ==> i'm using clove instead of aspegic, lemon balm is the gabagodness
 
         "formula":
